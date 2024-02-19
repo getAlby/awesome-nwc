@@ -4,6 +4,7 @@ Curated list of [NWC](nwc.dev) projects.
 
 ## Apps
  - [Amethyst](https://github.com/vitorpamplona/amethyst) 
+ - [Yana](https://github.com/frnandu/yana) 
 
 ## Distributions
 - [StartOS](https://github.com/horologger/nostr-wallet-connect-startos)
