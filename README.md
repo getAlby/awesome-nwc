@@ -1,6 +1,6 @@
 # Awesome Nostr Wallet Connect 
 
-Curated list of [NWC](nwc.dev) projects.
+Curated list of [NWC](https://nwc.dev) projects.
 
 ## Apps
  - [Amethyst](https://github.com/vitorpamplona/amethyst) 
