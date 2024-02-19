@@ -1,8 +1,9 @@
 # Awesome Nostr Wallet Connect 
 
-Curated list of [NWC](nwc.dev) projects.
+Curated list of [NWC](https://nwc.dev) projects.
 
 ## Apps
+<<<<<<< HEAD
  - [Amethyst](https://github.com/vitorpamplona/amethyst) 
  - [Damus](https://damus.io/)
  - [Flash](https://paywithflash.com/)
@@ -28,6 +29,11 @@ Curated list of [NWC](nwc.dev) projects.
  - [ZapVert](https://zapvert.thunderpay.link/)
  - [ZapplePay](https://www.zapplepay.com/)
  - [Zappy Bird](https://rolznz.github.io/zappy-bird/)
+=======
+ - [Amethyst](https://github.com/vitorpamplona/amethyst)
+ - [Damus](https://github.com/damus-io/damus)
+ - [Yana](https://github.com/frnandu/yana) 
+>>>>>>> 786d72e6cf9425b0d51fca80cd4c5d94346784bc
 
 ## Distributions
 - [StartOS](https://github.com/horologger/nostr-wallet-connect-startos)
@@ -35,7 +41,11 @@ Curated list of [NWC](nwc.dev) projects.
 
 ## Misc
  - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server)
+<<<<<<< HEAD
  - [Bitcoin Connect](https://bitcoin-connect.com/)
+=======
+ - [BuzzPay PoS](https://github.com/getAlby/pos)
+>>>>>>> 786d72e6cf9425b0d51fca80cd4c5d94346784bc
 
 ## Nodes 
 - [Core Lightning](https://github.com/gudnuf/cln_nwc)
@@ -44,3 +54,11 @@ Curated list of [NWC](nwc.dev) projects.
 ## Wallets
 - [Alby](https://www.getalby.com)
 - [Mutiny](https://www.mutinywallet.com)
+
+## Wallet Services
+- [NWC](https://github.com/getAlby/nostr-wallet-connect)
+
+## Developer Tools
+- [Alby JS SDK](https://github.com/getAlby/js-sdk)
+- [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect)
+- [rust-nostr](https://github.com/rust-nostr/nostr)
