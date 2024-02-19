@@ -1,10 +1,11 @@
 # Awesome Nostr Wallet Connect 
 
-Curated list of [NWC](nwc.dev) projects.
+Curated list of [NWC](https://nwc.dev) projects.
 
 ## Apps
  - [Amethyst](https://github.com/vitorpamplona/amethyst)
  - [Damus](https://github.com/damus-io/damus)
+ - [Yana](https://github.com/frnandu/yana) 
 
 ## Distributions
 - [StartOS](https://github.com/horologger/nostr-wallet-connect-startos)
