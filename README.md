@@ -3,7 +3,8 @@
 Curated list of awesome [NWC](https://nwc.dev) projects.
 
 ## Apps
- - [Amethyst](https://github.com/vitorpamplona/amethyst) 
+ - [Amethyst](https://github.com/vitorpamplona/amethyst)
+ - [Coracle](https://coracle.social/)
  - [Damus](https://damus.io/)
  - [Flash](https://paywithflash.com/)
  - [Freerse](https://freerse.com/)
@@ -12,6 +13,7 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
  - [More Speech](https://github.com/unclebob/more-speech)
  - [noStrudel](https://nostrudel.ninja/)
  - [Nostr Kiwi](https://nostr.kiwi/)
+ - [Nostter](https://nostter.app/)
  - [Nostur](https://nostur.com/)
  - [Primal](https://primal.net/)
  - [$prism](https://www.makeprisms.com/)
@@ -26,6 +28,7 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
  - [ZapPlanner](https://zapplanner.albylabs.com/)
  - [Zap.Stream](https://zap.stream/)
  - [ZapVert](https://zapvert.thunderpay.link/)
+ - [Zapddit](https://zapddit.com/)
  - [ZapplePay](https://www.zapplepay.com/)
  - [Zappy Bird](https://rolznz.github.io/zappy-bird/)
 
@@ -52,3 +55,6 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
 - [Alby JS SDK](https://github.com/getAlby/js-sdk)
 - [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect)
 - [rust-nostr](https://github.com/rust-nostr/nostr)
+
+- ## Developers community
+- [Discord Channel](https://discord.nwc.dev/)
