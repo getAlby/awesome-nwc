@@ -2,7 +2,11 @@
 
 Curated list of awesome [NWC](https://nwc.dev) projects.
 
+![image](https://github.com/getAlby/awesome-nwc/assets/16482809/3d5e41be-5799-44cb-b48d-bcb448f70692)
+
+
 ## Apps
+ - [0xChat](https://0xchat.com/#/)
  - [Amethyst](https://github.com/vitorpamplona/amethyst)
  - [Coracle](https://coracle.social/)
  - [Damus](https://damus.io/)
