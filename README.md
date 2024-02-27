@@ -59,6 +59,7 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
 - [Alby JS SDK](https://github.com/getAlby/js-sdk)
 - [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect)
 - [rust-nostr](https://github.com/rust-nostr/nostr)
+- [NDK](https://github.com/nostr-dev-kit/ndk)
 
 - ## Developers community
 - [Discord Channel](https://discord.nwc.dev/)
