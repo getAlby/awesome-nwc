@@ -2,8 +2,13 @@
 
 Curated list of awesome [NWC](https://nwc.dev) projects.
 
+![image](https://github.com/getAlby/awesome-nwc/assets/16482809/3d5e41be-5799-44cb-b48d-bcb448f70692)
+
+
 ## Apps
- - [Amethyst](https://github.com/vitorpamplona/amethyst) 
+ - [0xChat](https://0xchat.com/#/)
+ - [Amethyst](https://github.com/vitorpamplona/amethyst)
+ - [Coracle](https://coracle.social/)
  - [Damus](https://damus.io/)
  - [Flash](https://paywithflash.com/)
  - [Freerse](https://freerse.com/)
@@ -12,6 +17,7 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
  - [More Speech](https://github.com/unclebob/more-speech)
  - [noStrudel](https://nostrudel.ninja/)
  - [Nostr Kiwi](https://nostr.kiwi/)
+ - [Nostter](https://nostter.app/)
  - [Nostur](https://nostur.com/)
  - [Primal](https://primal.net/)
  - [$prism](https://www.makeprisms.com/)
@@ -26,6 +32,7 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
  - [ZapPlanner](https://zapplanner.albylabs.com/)
  - [Zap.Stream](https://zap.stream/)
  - [ZapVert](https://zapvert.thunderpay.link/)
+ - [Zapddit](https://zapddit.com/)
  - [ZapplePay](https://www.zapplepay.com/)
  - [Zappy Bird](https://rolznz.github.io/zappy-bird/)
 
@@ -53,3 +60,6 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
 - [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect)
 - [rust-nostr](https://github.com/rust-nostr/nostr)
 - [NDK](https://github.com/nostr-dev-kit/ndk)
+
+- ## Developers community
+- [Discord Channel](https://discord.nwc.dev/)
