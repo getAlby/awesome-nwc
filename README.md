@@ -2,7 +2,7 @@
 
 Curated list of awesome [NWC](https://nwc.dev) projects.
 
-[🤝 Join](https://discord.nwc.dev) our developer community on Discord!
+🤝 [Join](https://discord.nwc.dev) our developer community on Discord!
 
 
 ## Apps
