@@ -1,8 +1,8 @@
-# Nostr Wallet Connect 
+# Nostr Wallet Connect
 
 Curated list of awesome [NWC](https://nwc.dev) projects.
 
-![image](https://github.com/getAlby/awesome-nwc/assets/16482809/3d5e41be-5799-44cb-b48d-bcb448f70692)
+[🤝 Join](https://discord.nwc.dev) our developer community on Discord!
 
 
 ## Apps
@@ -55,11 +55,8 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
 ## Wallet Services
 - [NWC](https://github.com/getAlby/nostr-wallet-connect)
 
-## Developer Tools
+## Developer Tools & Libraries
 - [Alby JS SDK](https://github.com/getAlby/js-sdk)
 - [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect)
 - [rust-nostr](https://github.com/rust-nostr/nostr)
 - [NDK](https://github.com/nostr-dev-kit/ndk)
-
-- ## Developers community
-- [Discord Channel](https://discord.nwc.dev/)
