@@ -24,6 +24,7 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
  - [Snort](https://snort.social/)
  - [Spring Browser](https://spring.site/)
  - [Stacker News](https://stacker.news/)
+ - [Vortex](https://www.raycast.com/saunter/vortex)
  - [Wavlake](https://www.wavlake.com/)
  - [Whereostr](https://wherostr.social/)
  - [YakiHonne](https://yakihonne.com/)
