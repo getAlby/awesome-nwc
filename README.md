@@ -37,13 +37,20 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
  - [ZapplePay](https://www.zapplepay.com/)
  - [Zappy Bird](https://rolznz.github.io/zappy-bird/)
 
-## Distributions
-- [StartOS](https://github.com/horologger/nostr-wallet-connect-startos)
-- [Umbrel](https://github.com/getAlby/nostr-wallet-connect)
-
+   
 ## Misc
  - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server)
  - [BuzzPay PoS](https://github.com/getAlby/pos)
+
+## Games
+- [Satoshi Settlers](https://satoshisettlers.com/)
+
+   
+## Distributions
+- [StartOS](https://github.com/horologger/nostr-wallet-connect-startos)
+- [Umbrel](https://github.com/getAlby/nostr-wallet-connect)
+- [Start9](https://marketplace.start9.com/nostr-wallet-connect)
+
 
 ## Nodes 
 - [Core Lightning](https://github.com/gudnuf/cln_nwc)
