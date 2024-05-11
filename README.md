@@ -35,7 +35,6 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
  - [ZapVert](https://zapvert.thunderpay.link/)
  - [Zapddit](https://zapddit.com/)
  - [ZapplePay](https://www.zapplepay.com/)
- - [Zappy Bird](https://rolznz.github.io/zappy-bird/)
 
    
 ## Misc
@@ -44,6 +43,7 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
 
 ## Games
 - [Satoshi Settlers](https://satoshisettlers.com/)
+- [Zappy Bird](https://rolznz.github.io/zappy-bird/)
 
    
 ## Distributions
