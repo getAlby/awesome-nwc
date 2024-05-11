@@ -47,14 +47,8 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
 
    
 ## Distributions
-- [StartOS](https://github.com/horologger/nostr-wallet-connect-startos)
 - [Umbrel](https://github.com/getAlby/nostr-wallet-connect)
 - [Start9](https://marketplace.start9.com/nostr-wallet-connect)
-
-
-## Nodes 
-- [Core Lightning](https://github.com/gudnuf/cln_nwc)
-- [LND](https://github.com/benthecarman/nostr-wallet-connect-lnd)
 
 ## Wallets
 - [Alby](https://www.getalby.com)
@@ -63,6 +57,8 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
 
 ## Wallet Services
 - [NWC](https://github.com/getAlby/nostr-wallet-connect)
+- [Core Lightning](https://github.com/gudnuf/cln_nwc)
+- [LND](https://github.com/benthecarman/nostr-wallet-connect-lnd)
 
 ## Developer Tools & Libraries
 - [Alby JS SDK](https://github.com/getAlby/js-sdk)
