@@ -68,3 +68,4 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
 - [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect)
 - [rust-nostr](https://github.com/rust-nostr/nostr)
 - [NDK](https://github.com/nostr-dev-kit/ndk)
+- [NWC HTTP API](https://guides.getalby.com/developer-guide/v/nostr-wallet-connect-api/building-lightning-apps/communicating-payment-requests)
