@@ -59,6 +59,7 @@ Curated list of awesome [NWC](https://nwc.dev) projects.
 ## Wallets
 - [Alby](https://www.getalby.com)
 - [Mutiny](https://www.mutinywallet.com)
+- [Cashu.me](https://wallet.cashu.me/)
 
 ## Wallet Services
 - [NWC](https://github.com/getAlby/nostr-wallet-connect)
