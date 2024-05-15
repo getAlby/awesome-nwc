@@ -77,7 +77,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 ## NWC Developer Tools & Libraries for Apps
 These tools and libraries help apps to integrate the NWC protocol and enable in-app payments
 - [Alby JS SDK](https://github.com/getAlby/js-sdk?tab=readme-ov-file#nostr-wallet-connect-documentation) - JavaScript SDK for apps to handle NWC connection strings
-- [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect) - Easy to integrate components for web apps that let users connect their lightning wallets for [WebLN](https://www.webln.guide/)-based payments
+- [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect) - Easy to integrate components for web apps that let users connect their lightning wallets with a full payment flow UX
 - [rust-nostr](https://github.com/rust-nostr/nostr) - Nostr protocol implementation, SDK and FFI
 - [NDK](https://github.com/nostr-dev-kit/ndk) - Nostr Development Kit
 - [NWC HTTP API](https://guides.getalby.com/developer-guide/v/nostr-wallet-connect-api/building-lightning-apps/communicating-payment-requests) - HTTP API to communicate NWC payment requests without the need of websockets
