@@ -10,6 +10,12 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 [![X](https://img.shields.io/badge/Follow-d?style=social&logo=X)](https://twitter.com/nwc_dev)
 [![Star](https://img.shields.io/badge/Follow_this_awesome_list-f?style=social&logo=riseup&logoColor=yellow)](https://github.com/getAlby/awesome-nwc)
 
+## Content
+- [Apps](https://github.com/getAlby/awesome-nwc/edit/master/README.md#apps)
+- [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/edit/master/README.md#developer-tools--libraries-for-apps)
+- [Wallets](https://github.com/getAlby/awesome-nwc/edit/master/README.md#nwc-wallets)
+- [Wallet Services](https://github.com/getAlby/awesome-nwc/edit/master/README.md#nwc-developer-tools--libraries-for-apps) 
+
 ## Apps
 
 ### Browsers
@@ -43,29 +49,29 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
  - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
 
 ### Short-form Content Publishing 
- - [Amethyst](https://github.com/vitorpamplona/amethyst) - Nostr client for Android
+ - [Amethyst](https://github.com/vitorpamplona/amethyst) - Feature-rich Nostr client for Android
  - [Coracle](https://coracle.social/) - Web client for the Nostr protocol
- - [Damus](https://damus.io/) - Nostr client for iOS
+ - [Damus](https://damus.io/) -  Excellent Nostr client for iOS
  - [Freerse](https://freerse.com/) - Nostr client for Android and iOS
  - [Lume](https://github.com/lumehq/lume/tree/v2.2.3) - Multi-purpose nostr client for Desktop
  - [More Speech](https://github.com/unclebob/more-speech) - A desktop client for the Nostr protocol
  - [noStrudel](https://nostrudel.ninja/) - Platform for notes and streaming over Nostr
  - [Nostter](https://nostter.app/) - Lightweight, elegant client with NWC
- - [Nostur](https://nostur.com/) - Nostr client for iOS
+ - [Nostur](https://nostur.com/) - Top-notch Nostr client for iOS
  - [Primal](https://primal.net/) - Super fast Nostr client for web, Android and iOS
  - [Snort](https://snort.social/) - Feature-packed Nostr web client
  - [Whereostr](https://wherostr.social/) - Explore where your Nostr friends are located
- - [Yana](https://yana.do/) - Yet another Nostr app for web, Android and iOS with a very responsive UI
+ - [Yana](https://yana.do/) - Yet another Nostr app for web, Android and iOS but with very responsive UI
 
 ### Video Publishing
- - [Zap.Stream](https://zap.stream/) - Website for live streaming and chat with zaps
+ - [Zap.Stream](https://zap.stream/) - Slick website for live streaming and chat with zaps
 
 ### Wallet Interfaces
 - [Alby Browser Extension](https://getalby.com/#extension) - Connect your wallet and surf the web of bitcon apps
 - [Vortex](https://www.raycast.com/saunter/vortex) - The fastest way to use bitcoin on macOS
 
-## Developer Tools & Libraries for Apps
-These tools and libraries help apps to integrate the NWC protocol for in-app bitcoin payments
+## NWC Developer Tools & Libraries for Apps
+These tools and libraries help apps to integrate the NWC protocol to support in-app bitcoin payments
 - [Alby JS SDK](https://github.com/getAlby/js-sdk) - JavaScript SDK for NWC
 - [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect) - Easy to integrate components for web apps to for connecting to Lightning wallets and enabling [WebLN](https://www.webln.guide/)
 - [rust-nostr](https://github.com/rust-nostr/nostr) - Nostr protocol implementation, SDK and FFI
