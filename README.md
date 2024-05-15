@@ -101,4 +101,3 @@ These apps have access to the APIs of the wallets they serve and let users creat
 
 ## Misc
 - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC
-- [React Native (Expo)]
