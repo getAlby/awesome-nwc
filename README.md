@@ -1,6 +1,6 @@
 # NWC Applications [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/getAlby/awesome-nwc)
 
-<a href="https://nwc.dev/"><img align="center" src="https://github.com/MoritzKa/assets/blob/main/nwc_logo.png" alt="awesome-nwc" title="awesome-nwc" width="600" /></a>
+<a href="https://nwc.dev/"><img align="center" src="https://github.com/getAlby/awesome-nwc/blob/master/nwc_logo.png" alt="awesome-nwc" title="awesome-nwc" width="600" /></a>
 
 Curated list of awesome projects implemeting [Nostr Wallet Connect (NWC)](https://nwc.dev).
 
