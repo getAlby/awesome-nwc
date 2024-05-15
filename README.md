@@ -12,7 +12,7 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 
 ## What is NWC
 NWC is an open protocol to be implemented by bitcoin lightning wallets and any app to add bitcoin payment functionality.
-Users connect wallets instantly – no Nostr account required
+Users connect wallets instantly – no Nostr account required. Apps orchestrate payments between these wallets without ever touching funds. 
 
 ## Content
 - [Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#apps)
