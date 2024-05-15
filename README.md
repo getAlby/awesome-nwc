@@ -6,9 +6,9 @@ Curated list of awesome projects implemeting [Nostr Wallet Connect (NWC)](https:
 
 Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/issues)! We love PRs :) 
 
-[![Static Badge](https://img.shields.io/badge/Join_us-d?style=social&logo=discord)](https://discord.nwc.dev/)
-[![Static Badge](https://img.shields.io/badge/Follow-d?style=social&logo=X)](https://twitter.com/nwc_dev)
-[![Static Badge](https://img.shields.io/badge/Follow_this_awesome_list-f?style=social&logo=riseup&logoColor=yellow)](https://github.com/getAlby/awesome-nwc)
+[![Discord](https://img.shields.io/badge/Join_us-d?style=social&logo=discord)](https://discord.nwc.dev/)
+[![X](https://img.shields.io/badge/Follow-d?style=social&logo=X)](https://twitter.com/nwc_dev)
+[![Star](https://img.shields.io/badge/Follow_this_awesome_list-f?style=social&logo=riseup&logoColor=yellow)](https://github.com/getAlby/awesome-nwc)
 
 ## Apps
 
