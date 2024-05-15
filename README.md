@@ -22,9 +22,9 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
  - [Habla](https://habla.news/) - Read, write, curate and monetize long form content over Nostr
  - [Lume](https://github.com/lumehq/lume/tree/v2.2.3) - Multi-purpose nostr client for Desktop
  - [More Speech](https://github.com/unclebob/more-speech) - A desktop client for the Nostr protocol
- - [noStrudel](https://nostrudel.ninja/)
- - [Nostr Kiwi](https://nostr.kiwi/)
- - [Nostter](https://nostter.app/)
+ - [noStrudel](https://nostrudel.ninja/) - Platform for notes and streaming over Nostr
+ - [Nostr Kiwi](https://nostr.kiwi/) - Place for you to share notes & curate content in communities
+ - [Nostter](https://nostter.app/) - Lightweight, elegant client with NWC
  - [Nostur](https://nostur.com/)
  - [Primal](https://primal.net/)
  - [$prism](https://www.makeprisms.com/)
@@ -37,21 +37,19 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
  - [YakiHonne](https://yakihonne.com/)
  - [Zapddit](https://zapddit.com/)
  - [Yana](https://yana.do/)
- - [ZapPlanner](https://zapplanner.albylabs.com/)
- - [Zap.Stream](https://zap.stream/)
- - [ZapVert](https://zapvert.thunderpay.link/)
- - [Zapddit](https://zapddit.com/)
- - [ZapplePay](https://www.zapplepay.com/)
+ - [Zap.Stream](https://zap.stream/) - Website for live streaming and chat with zaps
+ - [Zapddit](https://zapddit.com/) - A reddit-style Nostr client with communities
+ - [ZapPlanner](https://zapplanner.albylabs.com/) - Send regular payments to your favorite publisher
+ - [ZapplePay](https://www.zapplepay.com/) - Lets you Zap from any nostr client.
+
+### Games
+- [Satoshi Settlers](https://satoshisettlers.com/) - Settle and develop the blocks of Bitcoin on a shared world map
+- [Zappy Bird](https://rolznz.github.io/zappy-bird/) - Super fun version of Flappy Bird
 
    
 ## Misc
  - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server)
  - [BuzzPay PoS](https://github.com/getAlby/pos)
-
-## Games
-- [Satoshi Settlers](https://satoshisettlers.com/)
-- [Zappy Bird](https://rolznz.github.io/zappy-bird/)
-
    
 ## Distributions
 - [Umbrel](https://github.com/getAlby/nostr-wallet-connect)
