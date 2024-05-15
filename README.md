@@ -1,4 +1,4 @@
-# Awesome NWC Applications [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
+# NWC Applications [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
 
 <a href="https://nwc.dev/"><img align="center" src="https://github.com/MoritzKa/assets/blob/main/nwc_logo.png" alt="awesome-nwc" title="awesome-nwc" width="600" /></a>
 
