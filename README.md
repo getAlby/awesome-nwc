@@ -11,10 +11,10 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 [![Star](https://img.shields.io/badge/Follow_this_awesome_list-f?style=social&logo=riseup&logoColor=yellow)](https://github.com/getAlby/awesome-nwc)
 
 ## Content
-- [Apps](https://github.com/getAlby/awesome-nwc/edit/master/README.md#apps)
-- [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/edit/master/README.md#developer-tools--libraries-for-apps)
-- [Wallets](https://github.com/getAlby/awesome-nwc/edit/master/README.md#nwc-wallets)
-- [Wallet Services](https://github.com/getAlby/awesome-nwc/edit/master/README.md#nwc-developer-tools--libraries-for-apps) 
+- [Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#apps)
+- [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#apps)
+- [Wallets](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallets)
+- [Wallet Services](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallet-services) 
 
 ## Apps
 
