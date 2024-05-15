@@ -39,7 +39,7 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
  - [ZapplePay](https://www.zapplepay.com/) - Zap from any nostr client
 
 ### Point of Sale 
- - [BuzzPay PoS](https://github.com/getAlby/pos)
+ - [BuzzPay PoS](https://github.com/getAlby/pos) - Super simple self-custodial PoS
  - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
 
 ### Short-form Content Publishing 
