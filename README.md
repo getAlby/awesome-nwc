@@ -12,7 +12,7 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 
 ## Content
 - [Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#apps)
-- [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#apps)
+- [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-developer-tools--libraries-for-apps)
 - [Wallets](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallets)
 - [Wallet Services](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallet-services) 
 
