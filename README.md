@@ -7,9 +7,11 @@ Curated list of awesome projects implemeting [Nostr Wallet Connect (NWC)](https:
 
 Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/issues)! We love PRs :) 
 
-⭐Follow this awesome list.
+[![Static Badge](https://img.shields.io/badge/Follow-d?style=social&logo=X)](https://twitter.com/nwc_dev)
+[![Static Badge](https://img.shields.io/badge/Follow_this_awesome_list-f?style=social&logo=riseup&logoColor=yellow)]()
 
-🤝 [Join](https://discord.nwc.dev) our developer community on Discord!
+
+
 
 
 ## Apps
@@ -83,8 +85,8 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 ## Developer Tools & Libraries
 - [Alby JS SDK](https://github.com/getAlby/js-sdk) - JavaScript SDK for the Alby OAuth2 Wallet API and the Nostr Wallet Connect API
 - [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect) - Easy to integrate components for web apps to for connecting to Lightning wallets and enabling [WebLN](https://www.webln.guide/)
-- [rust-nostr](https://github.com/rust-nostr/nostr)
-- [NDK](https://github.com/nostr-dev-kit/ndk)
-- [NWC HTTP API](https://guides.getalby.com/developer-guide/v/nostr-wallet-connect-api/building-lightning-apps/communicating-payment-requests)
+- [rust-nostr](https://github.com/rust-nostr/nostr) - Nostr protocol implementation, SDK and FFI
+- [NDK](https://github.com/nostr-dev-kit/ndk) - Nostr Development Kit
+- [NWC HTTP API](https://guides.getalby.com/developer-guide/v/nostr-wallet-connect-api/building-lightning-apps/communicating-payment-requests) - HTTP API to communicate NWC payment requests without the need of websockets
 - [$prism](https://www.makeprisms.com/) - API for apps to connect to wallet services
-- [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server)
+- [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC 
