@@ -1,6 +1,7 @@
 # Awesome NWC Applications
 [![Discord Badge](https://img.shields.io/badge/join_us-on_Discord-blue?style=flat&logo=discord&logoColor=white&labelColor=F7931A&color=897FFF)](https://discord.nwc.dev/)
-<a href="[https://awesome-go.com/](https://nwc.dev)"><img align="center" src="https://github.com/MoritzKa/assets/blob/main/nwc_logo.png" alt="awesome-nwc" title="awesome-nwc" /></a>
+
+<a href="https://nwc.dev/"><img align="center" src="https://github.com/MoritzKa/assets/blob/main/nwc_logo.png" alt="awesome-nwc" title="awesome-nwc" width="600" /></a>
 
 Curated list of awesome projects implemeting [Nostr Wallet Connect (NWC)](https://nwc.dev).
 
