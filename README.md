@@ -71,13 +71,14 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 - [Vortex](https://www.raycast.com/saunter/vortex) - The fastest way to use bitcoin on macOS
 
 ## NWC Developer Tools & Libraries for Apps
-These tools and libraries help apps to integrate the NWC protocol to support in-app bitcoin payments
-- [Alby JS SDK](https://github.com/getAlby/js-sdk) - JavaScript SDK for NWC
+These tools and libraries help apps to integrate the NWC protocol and enable in-app payments
+- [Alby JS SDK](https://github.com/getAlby/js-sdk?tab=readme-ov-file#nostr-wallet-connect-documentation) - JavaScript SDK for apps to handle NWC connection strings
 - [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect) - Easy to integrate components for web apps to for connecting to Lightning wallets and enabling [WebLN](https://www.webln.guide/)
 - [rust-nostr](https://github.com/rust-nostr/nostr) - Nostr protocol implementation, SDK and FFI
 - [NDK](https://github.com/nostr-dev-kit/ndk) - Nostr Development Kit
 - [NWC HTTP API](https://guides.getalby.com/developer-guide/v/nostr-wallet-connect-api/building-lightning-apps/communicating-payment-requests) - HTTP API to communicate NWC payment requests without the need of websockets
 - [$prism](https://www.makeprisms.com/) - API for apps to connect to wallet services
+- [React Native (Expo)](https://github.com/getAlby/nwc-react-native-expo) - An example of using Alby JS SDK (Nostr Wallet Connect) in a React Native Expo project
 
 ## NWC Wallets
 - [Alby](https://www.getalby.com) - Bitcoin lightning wallet ready to be connected to any bitcoin app on the web and mobile
@@ -100,3 +101,4 @@ These apps have access to the APIs of the wallets they serve and let users creat
 
 ## Misc
 - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC
+- [React Native (Expo)]
