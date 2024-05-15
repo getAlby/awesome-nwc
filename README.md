@@ -19,9 +19,9 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
  - [0xChat](https://0xchat.com/#/) - Chat app built on the Nostr protocol
 
 ### Community Apps
+- [Nostr Kiwi](https://nostr.kiwi/) - Place for you to share notes & curate content in communities
 - [Stacker News](https://stacker.news/) - Internet communities that pay you bitcoin
 - [Zapddit](https://zapddit.com/) - A reddit-style Nostr client with communities
-- [Nostr Kiwi](https://nostr.kiwi/) - Place for you to share notes & curate content in communities
 
 ### Games
 - [Satoshi Settlers](https://satoshisettlers.com/) - Settle and develop the blocks of Bitcoin on a shared world map
