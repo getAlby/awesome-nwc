@@ -12,15 +12,15 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 
 
 ## Apps
- - [0xChat](https://0xchat.com/#/) 
- - [Amethyst](https://github.com/vitorpamplona/amethyst)
- - [Coracle](https://coracle.social/)
- - [Damus](https://damus.io/)
- - [Flash](https://paywithflash.com/)
- - [Freerse](https://freerse.com/)
- - [Habla](https://habla.news/)
- - [Lume](https://github.com/lumehq/lume/tree/v2.2.3)
- - [More Speech](https://github.com/unclebob/more-speech)
+ - [0xChat](https://0xchat.com/#/) - Chat app built on the Nostr protocol.
+ - [Amethyst](https://github.com/vitorpamplona/amethyst) - Nostr client for Android
+ - [Coracle](https://coracle.social/) - Web client for the Nostr protocol
+ - [Damus](https://damus.io/) - Nostr client for iOS
+ - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
+ - [Freerse](https://freerse.com/) - Nostr client for Android and iOS
+ - [Habla](https://habla.news/) - Read, write, curate and monetize long form content over Nostr
+ - [Lume](https://github.com/lumehq/lume/tree/v2.2.3) - Multi-purpose nostr client for Desktop
+ - [More Speech](https://github.com/unclebob/more-speech) - A desktop client for the Nostr protocol
  - [noStrudel](https://nostrudel.ninja/)
  - [Nostr Kiwi](https://nostr.kiwi/)
  - [Nostter](https://nostter.app/)
