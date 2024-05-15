@@ -18,37 +18,37 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 
 ## Apps
 
-### Browsers
+#### Browsers
  - [Spring Browser](https://spring.site/) - Purpose-built browser to explore the universe of Nostr apps
 
-### Chat
+#### Chat
  - [0xChat](https://0xchat.com/) - Chat app built on the Nostr protocol with encrypted group chats
 
-### Community Apps
+#### Community Apps
 - [Nostr Kiwi](https://nostr.kiwi/) - Place for you to share notes & curate content in communities
 - [Stacker News](https://stacker.news/) - Internet communities that let you upvote content and pay you bitcoin
 - [Zapddit](https://zapddit.com/) - Choose topics to follow and join communities
 
-### Games
+#### Games
 - [Satoshi Settlers](https://satoshisettlers.com/) - Settle and develop the blocks of Bitcoin on a shared world map
 - [Zappy Bird](https://rolznz.github.io/zappy-bird/) - Super fun version of Flappy Bird
 
-### Long-form Content Publishing
+#### Long-form Content Publishing
 - [Habla](https://habla.news/) - Read, write, curate and monetize long form content over Nostr
 - [YakiHonne](https://yakihonne.com/) - A well-designed decentralized long-form content media platform
 
-### Music Publishing
+#### Music Publishing
 - [Wavlake](https://www.wavlake.com/) - Music streaming app with direct contributions to creators
    
-### Payment Planners
+#### Payment Planners
  - [ZapPlanner](https://zapplanner.albylabs.com/) - Send regular payments to your favorite publisher
  - [ZapplePay](https://www.zapplepay.com/) - Smart app to zap from any nostr client & auto-zaps
 
-### Point of Sale 
+#### Point of Sale 
  - [BuzzPay PoS](https://github.com/getAlby/pos) - Super simple self-custodial PoS
  - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
 
-### Short-form Content Publishing 
+#### Short-form Content Publishing 
  - [Amethyst](https://github.com/vitorpamplona/amethyst) - Feature-rich Nostr client for Android
  - [Coracle](https://coracle.social/) - Web client for the Nostr protocol
  - [Damus](https://damus.io/) -  Excellent Nostr client for iOS
@@ -63,10 +63,10 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
  - [Whereostr](https://wherostr.social/) - Explore where your Nostr friends are located
  - [Yana](https://yana.do/) - Yet another Nostr app for web, Android and iOS but with very responsive UI
 
-### Video Publishing
+#### Video Publishing
  - [Zap.Stream](https://zap.stream/) - Slick website for live streaming and chat with zaps
 
-### Wallet Interfaces
+#### Wallet Interfaces
 - [Alby Browser Extension](https://getalby.com/#extension) - Connect your wallet and surf the web of bitcon apps
 - [Vortex](https://www.raycast.com/saunter/vortex) - The fastest way to use bitcoin on macOS
 
