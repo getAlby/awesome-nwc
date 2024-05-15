@@ -27,7 +27,7 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 - [Satoshi Settlers](https://satoshisettlers.com/) - Settle and develop the blocks of Bitcoin on a shared world map
 - [Zappy Bird](https://rolznz.github.io/zappy-bird/) - Super fun version of Flappy Bird
 
-### Long-form Content
+### Long-form Content Publishing
 - [Habla](https://habla.news/) - Read, write, curate and monetize long form content over Nostr
 - [YakiHonne](https://yakihonne.com/) - A decentralized long-form content media platform
 
