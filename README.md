@@ -85,4 +85,7 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 - [NDK](https://github.com/nostr-dev-kit/ndk) - Nostr Development Kit
 - [NWC HTTP API](https://guides.getalby.com/developer-guide/v/nostr-wallet-connect-api/building-lightning-apps/communicating-payment-requests) - HTTP API to communicate NWC payment requests without the need of websockets
 - [$prism](https://www.makeprisms.com/) - API for apps to connect to wallet services
-- [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC 
+- [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC
+
+## Communities Using NWC
+- [Plebnet.dev](https://discord.gg/VJfNn2nby5) -A Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
