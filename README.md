@@ -10,6 +10,10 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 [![X](https://img.shields.io/badge/Follow-d?style=social&logo=X)](https://twitter.com/nwc_dev)
 [![Star](https://img.shields.io/badge/Follow_this_awesome_list-f?style=social&logo=riseup&logoColor=yellow)](https://github.com/getAlby/awesome-nwc)
 
+## What is NWC
+NWC is an open protocol to be implemented by bitcoin lightning wallets and any app to add bitcoin payment functionality.
+Users connect wallets instantly – no Nostr account required
+
 ## Content
 - [Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#apps)
 - [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-developer-tools--libraries-for-apps)
