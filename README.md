@@ -45,6 +45,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [Wavlake](https://www.wavlake.com/) - Music streaming app with direct contributions to creators
    
 #### Payment Planners
+ - [BitcoinLink](https://www.bitcoinlink.app/) - Send bitcoin using a simple link
  - [ZapPlanner](https://zapplanner.albylabs.com/) - Send regular payments to your favorite publisher
  - [ZapplePay](https://www.zapplepay.com/) - Smart app to zap from any nostr client & auto-zaps
 
