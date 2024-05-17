@@ -97,10 +97,12 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 These apps have access to the APIs of the wallets they serve and let users create connection strings
 - [Core Lightning](https://github.com/gudnuf/cln_nwc) - Nostr Wallet Connect plugin for CLN
 - [Breez SDK](https://github.com/getAlby/nostr-wallet-connect-next) - NWC service for the Breez SDK (experimental)
+- [LNbits](https://github.com/SamSamskies/lnbits-nwc-service) - Nostr Wallet Connect service using LNbits API
 - [LND](https://github.com/benthecarman/nostr-wallet-connect-lnd) - Nostr Wallet Connect for LND nodes
 - [NWC](https://github.com/getAlby/nostr-wallet-connect) Wallet service to allow 3rd-party apps to connect to your wallet or node
 - [Umbrel](https://github.com/getAlby/nostr-wallet-connect) Wallet service for Umbrel nodes
 - [Start9](https://marketplace.start9.com/nostr-wallet-connect) Wallet service for StartOS users
+- [Strike](https://github.com/SamSamskies/strike-nwc-service) - Nostr Wallet Connect service using Strike API
 
 ## Communities Using NWC
 - [Plebnet.dev](https://discord.gg/VJfNn2nby5) -A Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
