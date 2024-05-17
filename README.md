@@ -87,6 +87,7 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 
 ## NWC Wallets
 - [Alby](https://www.getalby.com) - Bitcoin lightning wallet ready to be connected to any bitcoin app on the web and mobile
+- [Boardwalk Cash](https://boardwalkcash.com/) - Dollar-denominated Ecash and lightning wallet
 - [Cashu.me](https://wallet.cashu.me/) - eCash-based Cashu wallet PWA
 - [MicroNode](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
 - [Mutiny](https://www.mutinywallet.com) - self-custodial lightning wallet that is targeting the web browser first
