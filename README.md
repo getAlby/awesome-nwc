@@ -41,6 +41,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 #### Long-form Content Publishing
 - [Habla](https://habla.news/) - Read, write, curate and monetize long form content over Nostr
 - [YakiHonne](https://yakihonne.com/) - A well-designed decentralized long-form content media platform
+- [Highlighter](https://highlighter.com/) - Highlighter stands out by offering creators true ownership of their audience
 
 #### Music Publishing
 - [Wavlake](https://www.wavlake.com/) - Music streaming app with direct contributions to creators
