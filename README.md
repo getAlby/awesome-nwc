@@ -46,10 +46,11 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 #### Music Publishing
 - [Wavlake](https://www.wavlake.com/) - Music streaming app with direct contributions to creators
    
-#### Payment Planners
- - [BitcoinLink](https://www.bitcoinlink.app/) - Send bitcoin using a simple link
+#### Finance & Payment Planners
+ - [BitcoinLink](https://www.bitcoinlink.app/) - Create URL vouchers to send sats from your wallet
  - [ZapPlanner](https://zapplanner.albylabs.com/) - Send regular payments to your favorite publisher
  - [ZapplePay](https://www.zapplepay.com/) - Smart app to zap from any nostr client & auto-zaps
+ - [Bringin](https://bringin.xyz/) - Sell bitcoin from your wallet directly to IBAN accounts
 
 #### Point of Sale 
  - [BuzzPay PoS](https://github.com/getAlby/pos) - Super simple self-custodial PoS
