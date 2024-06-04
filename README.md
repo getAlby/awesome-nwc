@@ -61,6 +61,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
  - [Coracle](https://coracle.social/) - Web client for the Nostr protocol
  - [Damus](https://damus.io/) -  Excellent Nostr client for iOS
  - [Freerse](https://freerse.com/) - Nostr client for Android and iOS
+ - [Freefrom](https://freefrom.space/) - Closed-source, twitter like client for Androis and iOS
  - [Lume](https://github.com/lumehq/lume/tree/v2.2.3) - Multi-purpose nostr client for Desktop
  - [More Speech](https://github.com/unclebob/more-speech) - A desktop client for the Nostr protocol
  - [noStrudel](https://nostrudel.ninja/) - Platform for notes and streaming over Nostr
