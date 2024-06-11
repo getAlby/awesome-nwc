@@ -95,18 +95,18 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [Cashu.me](https://wallet.cashu.me/) - eCash-based Cashu wallet PWA
 - [LN Node](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
 - [Mutiny](https://www.mutinywallet.com) - self-custodial lightning wallet that is targeting the web browser first
-- [Umbrel](https://umbrel.com/) - A beautiful home server OS for self-hosting apps and your bitcoin node
 - [Start9](https://start9.com/) - Linux-based operating system optimized for running a personal server and bitcoin node
+- [Umbrel](https://umbrel.com/) - A beautiful home server OS for self-hosting apps and your bitcoin node
 
 The following apps are NWC wallet services with access to the APIs of the wallets they serve and let users create connection strings:
 - [Core Lightning](https://github.com/gudnuf/cln_nwc) - NWC plugin for CLN
 - [Breez SDK](https://github.com/getAlby/nostr-wallet-connect-next) - NWC service for the Breez SDK (experimental)
-- [LNbits](https://github.com/SamSamskies/lnbits-nwc-service) - Nostr Wallet Connect service using LNbits API
+- [LNbits](https://github.com/SamSamskies/lnbits-nwc-service) - Nostr Wallet Connect service using LNbits API (experimental)
 - [LND](https://github.com/benthecarman/nostr-wallet-connect-lnd) - Nostr Wallet Connect for LND nodes
 - [NWC](https://github.com/getAlby/nostr-wallet-connect) - Open-source wallet service to allow 3rd-party apps to connect to your wallet or node
-- [Umbrel](https://github.com/getAlby/nostr-wallet-connect) - Wallet service for Umbrel nodes
 - [Start9](https://marketplace.start9.com/nostr-wallet-connect) - Wallet service for StartOS users
-- [Strike](https://github.com/SamSamskies/strike-nwc-service) - NWC service using Strike API
+- [Strike](https://github.com/SamSamskies/strike-nwc-service) - NWC service using Strike API (experimental)
+- [Umbrel](https://github.com/getAlby/nostr-wallet-connect) - Wallet service for Umbrel nodes
 
 ## Communities Using NWC
 - [Plebnet.dev](https://discord.gg/VJfNn2nby5) -A Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
