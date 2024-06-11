@@ -98,7 +98,7 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [Umbrel](https://umbrel.com/) - A beautiful home server OS for self-hosting apps and your bitcoin node
 - [Start9](https://start9.com/) - Linux-based operating system optimized for running a personal server and bitcoin node
 
-These apps have access to the APIs of the wallets they serve and let users create connection strings
+The following apps are NWC wallet services with access to the APIs of the wallets they serve and let users create connection strings:
 - [Core Lightning](https://github.com/gudnuf/cln_nwc) - NWC plugin for CLN
 - [Breez SDK](https://github.com/getAlby/nostr-wallet-connect-next) - NWC service for the Breez SDK (experimental)
 - [LNbits](https://github.com/SamSamskies/lnbits-nwc-service) - Nostr Wallet Connect service using LNbits API
