@@ -28,6 +28,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 #### Chat
  - [0xChat](https://0xchat.com/) - Chat app built on the Nostr protocol with encrypted group chats
  - [Corny Chat](https://cornychat.com/) - Audio & chat rooms with zaps, over Nostr
+ - [ThunderTip](https://github.com/d4rp4t/ThunderTip) - Telegram tip bot with your own wallet 
 
 #### Community Apps
 - [Nostr Kiwi](https://nostr.kiwi/) - Place for you to share notes & curate content in communities
