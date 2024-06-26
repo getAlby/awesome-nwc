@@ -22,6 +22,9 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 
 ## Apps
 
+#### Accounting
+ - [Clams](https://clams.tech/) - Dedicated accounting platform for your wallet
+
 #### Browsers
  - [Spring Browser](https://spring.site/) - Purpose-built browser to explore the universe of Nostr apps
 
