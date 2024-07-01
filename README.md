@@ -57,6 +57,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
  - [Bringin](https://bringin.xyz/) - Sell bitcoin from your wallet directly to IBAN accounts
 
 #### Point of Sale 
+ - [BTCPay Server](https://btcpayserver.org/) - Open-source payment processor
  - [BuzzPay PoS](https://github.com/getAlby/pos) - Super simple self-custodial PoS
  - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
 
@@ -114,7 +115,8 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Umbrel](https://github.com/getAlby/nostr-wallet-connect) - Wallet service for Umbrel nodes
 
 ## Communities Using NWC
-- [Plebnet.dev](https://discord.gg/VJfNn2nby5) -A Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
+- [NWC.dev](https://discord.nwc.dev/) - Discord channel for developers building apps and wallets with Nostr Wallet Connect 
+- [Plebnet.dev](https://discord.gg/VJfNn2nby5) - A Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
 
 ## Misc
 - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC
