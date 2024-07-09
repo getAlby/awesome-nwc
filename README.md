@@ -70,6 +70,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
  - [Lume](https://github.com/lumehq/lume/tree/v2.2.3) - Multi-purpose nostr client for Desktop
  - [More Speech](https://github.com/unclebob/more-speech) - A desktop client for the Nostr protocol
  - [noStrudel](https://nostrudel.ninja/) - Platform for notes and streaming over Nostr
+ - [Nostrmo](https://github.com/haorendashu/nostrmo) - A flutter nostr client for Android, IOS, MacOS, Windows, Web and Linux
  - [Nostter](https://nostter.app/) - Lightweight, elegant client with NWC
  - [Nostur](https://nostur.com/) - Top-notch Nostr client for iOS
  - [Primal](https://primal.net/) - Super fast Nostr client for web, Android and iOS
