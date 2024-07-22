@@ -82,7 +82,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 
 #### Wallet Interfaces
 - [Alby Browser Extension](https://getalby.com/#extension) - Connect your wallet and surf the web of bitcon apps
-- [Nostr Pay](https://github.com/aniketambore/nostr_pay/releases/tag/v0.1.0-debug) - Simple Android app to connect for your NWC wallet
+- [Nostr Pay](https://github.com/aniketambore/nostr_pay) - Simple Android app to connect for your NWC wallet
 - [Vortex](https://www.raycast.com/saunter/vortex) - The fastest way to use bitcoin on macOS
 
 ## NWC Developer Tools & Libraries for Apps
@@ -94,6 +94,8 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [NWC HTTP API](https://guides.getalby.com/developer-guide/v/nostr-wallet-connect-api/building-lightning-apps/communicating-payment-requests) - HTTP API to communicate NWC payment requests without the need of websockets
 - [$prism](https://www.makeprisms.com/) - API for apps to connect to wallet services
 - [React Native (Expo)](https://github.com/getAlby/nwc-react-native-expo) - An example of using Alby JS SDK (Nostr Wallet Connect) in a React Native Expo project
+- [Dart Package](https://pub.dev/packages/nwc) - A Dart package that simplifies the integration of Nostr Wallet Connect into client applications.
+- [Flutter Package](https://github.com/kumulynja/nwc_wallet) - A Flutter package that takes care of the wallet service side of the NWC.
 
 ## NWC Wallets
 - [Alby](https://www.getalby.com) - Bitcoin lightning wallet ready to be connected to any bitcoin app on the web and mobile
