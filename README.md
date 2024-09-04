@@ -98,10 +98,12 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [Flutter Package](https://github.com/kumulynja/nwc_wallet) - A Flutter package that takes care of the wallet service side of the NWC.
 
 ## NWC Wallets
-- [Alby](https://www.getalby.com) - Bitcoin lightning wallet ready to be connected to any bitcoin app on the web and mobile
-- [Boardwalk Cash](https://boardwalkcash.com/) - Dollar-denominated Ecash and lightning wallet
+- [Alby](https://www.getalby.com) - Lightning wallet features ready to link your node with NWC apps
+- [Alby Hub](https://albyhub.com/) - Self-custodial lightning node with wallet and most seamless NWC service
+- [Lifpay](https://lifpay.me/) - Custodial mobile lightning wallet, with multiple accounts and Nostr integration
+- [Bankify](https://supertestnet.github.io/bankify/) - Turn any cashu mint into a lightning wallet with NWC support
+- [Minibits](https://www.minibits.cash/) - ECash wallet with a focus on performance and usability
 - [Cashu.me](https://wallet.cashu.me/) - eCash-based Cashu wallet PWA
-- [LN Node](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
 - [Mutiny](https://www.mutinywallet.com) - self-custodial lightning wallet that is targeting the web browser first
 - [Start9](https://start9.com/) - Linux-based operating system optimized for running a personal server and bitcoin node
 - [Umbrel](https://umbrel.com/) - A beautiful home server OS for self-hosting apps and your bitcoin node
@@ -119,6 +121,8 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 ## Communities Using NWC
 - [NWC.dev](https://discord.nwc.dev/) - Discord channel for developers building apps and wallets with Nostr Wallet Connect 
 - [Plebnet.dev](https://discord.gg/VJfNn2nby5) - A Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
+- [Alby's Discord](https://discord.getalby.com/) - Users, friends and team of Alby, with NWC as preferred app<>wallet connection protocol
 
 ## Misc
 - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC
+- [LN Node](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
