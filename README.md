@@ -84,6 +84,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [Alby Browser Extension](https://getalby.com/#extension) - Connect your wallet and surf the web of bitcon apps
 - [Nostr Pay](https://github.com/aniketambore/nostr_pay) - Simple Android app to connect for your NWC wallet
 - [Vortex](https://www.raycast.com/saunter/vortex) - The fastest way to use bitcoin on macOS
+- [Brick Wallet](https://github.com/supertestnet/brick-wallet) - A web frontend for NWC
 
 ## NWC Developer Tools & Libraries for Apps
 These tools and libraries help apps to integrate the NWC protocol and enable in-app payments
