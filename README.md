@@ -15,10 +15,10 @@ NWC is an open protocol to be implemented by bitcoin lightning wallets and any a
 Users connect wallets instantly – no Nostr account required. Apps orchestrate payments between these wallets without ever touching funds. 
 
 ## Content
-- [Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#apps)
-- [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-developer-tools--libraries-for-apps)
-- [Wallets](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallets)
-- [Wallet Services](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallet-services) 
+- 📱 [Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#apps)
+- 🛠️ [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-developer-tools--libraries-for-apps)
+- 👛 [Wallets](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallets)
+- 🏦 [Wallet Services](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallet-services) 
 
 ## Apps
 
@@ -101,10 +101,11 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 ## NWC Wallets
 - [Alby](https://www.getalby.com) - Lightning wallet features ready to link your node with NWC apps
 - [Alby Hub](https://albyhub.com/) - Self-custodial lightning node with wallet and most seamless NWC service
-- [Lifpay](https://lifpay.me/) - Custodial mobile lightning wallet, with multiple accounts and Nostr integration
 - [Bankify](https://supertestnet.github.io/bankify/) - Turn any cashu mint into a lightning wallet with NWC support
-- [Minibits](https://www.minibits.cash/) - ECash wallet with a focus on performance and usability
 - [Cashu.me](https://wallet.cashu.me/) - eCash-based Cashu wallet PWA
+- [Coinos](https://coinos.io/) - Free custodial web wallet and payment page
+- [Lifpay](https://lifpay.me/) - Custodial mobile lightning wallet, with multiple accounts and Nostr integration
+- [Minibits](https://www.minibits.cash/) - ECash wallet with a focus on performance and usability
 - [Mutiny](https://www.mutinywallet.com) - self-custodial lightning wallet that is targeting the web browser first
 - [Start9](https://start9.com/) - Linux-based operating system optimized for running a personal server and bitcoin node
 - [Umbrel](https://umbrel.com/) - A beautiful home server OS for self-hosting apps and your bitcoin node
