@@ -102,6 +102,7 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [Alby](https://www.getalby.com) - Lightning wallet features ready to link your node with NWC apps
 - [Alby Hub](https://albyhub.com/) - Self-custodial lightning node with wallet and most seamless NWC service
 - [Bankify](https://supertestnet.github.io/bankify/) - Turn any cashu mint into a lightning wallet with NWC support
+- [CasaOS](https://casaos.io/) - Open-source personal cloud system
 - [Cashu.me](https://wallet.cashu.me/) - eCash-based Cashu wallet PWA
 - [Coinos](https://coinos.io/) - Free custodial web wallet and payment page
 - [Lifpay](https://lifpay.me/) - Custodial mobile lightning wallet, with multiple accounts and Nostr integration
