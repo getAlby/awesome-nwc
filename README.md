@@ -24,6 +24,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 
 #### Accounting
  - [Clams](https://clams.tech/) - Dedicated accounting platform for your wallet
+ - [LNbits](https://lnbits.com/) - Open-source toolbox, accounting and extension system that might use NWC as funding source
 
 #### Browsers
  - [Spring Browser](https://spring.site/) - Purpose-built browser to explore the universe of Nostr apps
@@ -56,7 +57,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
  - [ZapplePay](https://www.zapplepay.com/) - Smart app to zap from any nostr client & auto-zaps
  - [Bringin](https://bringin.xyz/) - Sell bitcoin from your wallet directly to IBAN accounts
 
-#### Point of Sale 
+#### Payment tools, Point of Sale 
  - [BTCPay Server](https://btcpayserver.org/) - Open-source payment processor
  - [BuzzPay PoS](https://github.com/getAlby/pos) - Super simple self-custodial PoS
  - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
