@@ -135,5 +135,6 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 ## Misc
 - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC
 - [LN Node](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
+- [Nodana](https://nodana.io/) - 1-click deployment of Alby Hub, LNbits (with NWC) and other services in the cloud
 - [Simple NWC Tester](https://getalby.github.io/nwc-tester/) - Test NWC Connection Secrets
 - [Advanced NWC Tester](https://supertestnet.github.io/nwc_tester/) - Check NWC Connection Secrets' permissions, perform events
