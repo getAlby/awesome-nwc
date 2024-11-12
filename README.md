@@ -98,9 +98,11 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [NDK](https://github.com/nostr-dev-kit/ndk) - Nostr Development Kit
 - [NWC HTTP API](https://guides.getalby.com/developer-guide/v/nostr-wallet-connect-api/building-lightning-apps/communicating-payment-requests) - HTTP API to communicate NWC payment requests without the need of websockets
 - [$prism](https://www.makeprisms.com/) - API for apps to connect to wallet services
+- [Python3 library](https://github.com/supertestnet/python_nwc)
 - [React Native (Expo)](https://github.com/getAlby/nwc-react-native-expo) - An example of using Alby JS SDK (Nostr Wallet Connect) in a React Native Expo project
 - [Dart Package](https://pub.dev/packages/nwc) - A Dart package that simplifies the integration of Nostr Wallet Connect into client applications.
 - [Flutter Package](https://github.com/kumulynja/nwc_wallet) - A Flutter package that takes care of the wallet service side of the NWC.
+- [Vanilla Javascript library](https://github.com/supertestnet/nwcjs)
 
 ## NWC Wallets
 - [Alby](https://www.getalby.com) - Lightning wallet features ready to link your node with NWC apps
