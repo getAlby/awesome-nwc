@@ -38,6 +38,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
  - [Geyser](https://geyser.fund/) - Crowdfunding ideas, projects and product sales, p2p with bitcoin
    
 #### Community Apps
+- [Hivetalk](https://hivetalk.org/) - Videocalls, messaging and screensharing with Nostr login and zaps
 - [Nostr Kiwi](https://nostr.kiwi/) - Place for you to share notes & curate content in communities
 - [Stacker News](https://stacker.news/) - Internet communities that let you upvote content and pay you bitcoin
 - [Zapddit](https://zapddit.com/) - Choose topics to follow and join communities
@@ -51,8 +52,9 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [YakiHonne](https://yakihonne.com/) - A well-designed decentralized long-form content media platform
 - [Highlighter](https://highlighter.com/) - Highlighter stands out by offering creators true ownership of their audience
 
-#### Music Publishing
+#### Media & Video publishing
 - [Wavlake](https://www.wavlake.com/) - Music streaming app with direct contributions to creators
+- [Zap.Stream](https://zap.stream/) - Slick website for live streaming and chat with zaps
    
 #### Finance & Payment Planners
  - [BitcoinLink](https://www.bitcoinlink.app/) - Create URL vouchers to send sats from your wallet
@@ -81,11 +83,10 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
  - [Whereostr](https://wherostr.social/) - Explore where your Nostr friends are located
  - [Yana](https://yana.do/) - Yet another Nostr app for web, Android and iOS but with very responsive UI
 
-#### Video Publishing
- - [Zap.Stream](https://zap.stream/) - Slick website for live streaming and chat with zaps
-
 #### Wallet Interfaces
 - [Alby Browser Extension](https://getalby.com/#extension) - Connect your wallet and surf the web of bitcon apps
+- [Alby Go](https://albygo.com/) - Slick mobile interface with multi wallet support
+- [getAlby.com](https://getalby.com/) - Web wallet interface and Lightning Address service to NWC wallets
 - [Nostr Pay](https://github.com/aniketambore/nostr_pay) - Simple Android app to connect for your NWC wallet
 - [Vortex](https://www.raycast.com/saunter/vortex) - The fastest way to use bitcoin on macOS
 - [Brick Wallet](https://github.com/supertestnet/brick-wallet) - A web frontend for NWC
