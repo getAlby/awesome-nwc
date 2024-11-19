@@ -130,8 +130,9 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 ## Communities Using NWC
 - [NWC.dev](https://discord.nwc.dev/) - Discord channel for developers building apps and wallets with Nostr Wallet Connect 
-- [Plebnet.dev](https://discord.gg/VJfNn2nby5) - A Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
 - [Alby's Discord](https://discord.getalby.com/) - Users, friends and team of Alby, with NWC as preferred app<>wallet connection protocol
+- [PlebDevs](https://plebdevs.com/) - Online courses on Bitcoin & Lightning code development
+- [Plebnet.dev](https://discord.gg/VJfNn2nby5) - A Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
 
 ## Misc
 - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC
