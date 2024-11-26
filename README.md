@@ -36,7 +36,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [Rizful](https://rizful.com/) - Instant, disposable Lightning nodes, optimized for education
 
 #### Operating Systems
-Those below support at least one of NWC wallets in their official appstores.
+Those below support at least one of NWC wallets in their official appstores:
 - [CasaOS](https://casaos.io/) - Open-source personal cloud system
 - [Start9](https://start9.com/) - Linux-based operating system optimized for running a personal server and bitcoin node
 - [Umbrel](https://umbrel.com/) - A beautiful home server OS for self-hosting apps and your bitcoin node
@@ -133,9 +133,10 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 
 ## Communities Using NWC
-- [NWC.dev Discord](https://discord.nwc.dev/) - Discord channel for developers building apps and wallets with Nostr Wallet Connect 
-- [Bitcoin Design Discord](https://discord.gg/K7aQ5PErht) - open source community of Bitcoin designers
 - [Alby Discord](https://discord.getalby.com/) - Users, friends and team of Alby, with NWC as preferred app<>wallet connection protocol
+- [Bitcoin Design Discord](https://discord.gg/K7aQ5PErht) - Open source community of Bitcoin designers
+- [Dwadzieścia Jeden Telegram](https://discord.gg/K7aQ5PErht) - Community of pPlish bitcoiners
+- [NWC.dev Discord](https://discord.nwc.dev/) - Discord channel for developers building apps and wallets with Nostr Wallet Connect 
 - [Plebnet Discord](https://discord.gg/VJfNn2nby5) - A Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
 
 
