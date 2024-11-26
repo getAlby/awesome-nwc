@@ -10,133 +10,155 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 [![X](https://img.shields.io/badge/Follow-d?style=social&logo=X)](https://twitter.com/nwc_dev)
 [![Star](https://img.shields.io/badge/Follow_this_awesome_list-f?style=social&logo=riseup&logoColor=yellow)](https://github.com/getAlby/awesome-nwc)
 
-## What is NWC
+## What is NWC?
 NWC is an open protocol to be implemented by bitcoin lightning wallets and any app to add bitcoin payment functionality.
 Users connect wallets instantly – no Nostr account required. Apps orchestrate payments between these wallets without ever touching funds. 
 
 ## Content
+- 👛 [NWC Wallets](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallets)
+- 🏦 [Wallet Services](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallet-services)
 - 📱 [Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#apps)
-- 🛠️ [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-developer-tools--libraries-for-apps)
-- 👛 [Wallets](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallets)
-- 🏦 [Wallet Services](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallet-services) 
+- 👥 [Communities Using NWC](https://github.com/getAlby/awesome-nwc/blob/master/README.md#communities-using-nwc)
+- 🛠️ [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-developer-tools--libraries)
+- 🧩 [Protocols](https://github.com/getAlby/awesome-nwc/blob/master/README.md#protocols)
+
+
+## NWC Wallets
+- [Alby Hub](https://albyhub.com/) - Self-custodial lightning node with wallet and most seamless NWC service
+- [Bankify](https://supertestnet.github.io/bankify/) - Turn any cashu mint into a lightning wallet with NWC support
+- [Cashu.me](https://wallet.cashu.me/) - eCash-based Cashu wallet PWA
+- [Coinos](https://coinos.io/) - Free custodial web wallet and payment page
+- [Lifpay](https://lifpay.me/) - Custodial mobile lightning wallet, with multiple accounts and Nostr integration
+- [LNbits](https://lnbits.com/) - Powerful suite of bitcoin tools that has Nostr Wallet Connect plugin
+- [LN Node](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
+- [Minibits](https://www.minibits.cash/) - ECash wallet with a focus on performance and usability
+- [Mutiny](https://www.mutinywallet.com) - Self-custodial lightning wallet that is targeting the web browser first
+- [Rizful](https://rizful.com/) - Instant, disposable Lightning nodes, optimized for education
+
+#### Operating Systems
+Those below support at least one of NWC wallets in their official appstores.
+- [CasaOS](https://casaos.io/) - Open-source personal cloud system
+- [Start9](https://start9.com/) - Linux-based operating system optimized for running a personal server and bitcoin node
+- [Umbrel](https://umbrel.com/) - A beautiful home server OS for self-hosting apps and your bitcoin node
+
+#### Other 
+- [Nodana](https://nodana.io/) - 1-click deployment of Alby Hub, LNbits (with NWC) and other services in the cloud
+
+
+## NWC Wallet Services
+The following apps are NWC wallet services with access to the APIs of the wallets they serve and let users create connection strings:
+- [Breez SDK](https://github.com/getAlby/nostr-wallet-connect-next) - NWC service for the Breez SDK (experimental)
+- [Cashu](https://github.com/getAlby/hub) - NWC service for the Cashu (experimental)
+- [Core Lightning](https://github.com/gudnuf/cln_nwc) - NWC plugin for CLN
+- [Greenlight](https://github.com/getAlby/glalby) - Greenlight Rust Go bindings
+- [LNbits](https://github.com/SamSamskies/lnbits-nwc-service) - Nostr Wallet Connect service using LNbits API (experimental)
+- [LND](https://github.com/benthecarman/nostr-wallet-connect-lnd) - Nostr Wallet Connect for LND nodes
+- [LDK](https://github.com/getAlby/ldkalby) - LDK Rust Go bindings (WIP)
+- [phoenixd](https://github.com/getAlby/hub) - NWC service for phoenixd
+- [Strike](https://github.com/SamSamskies/strike-nwc-service) - NWC service using Strike API (experimental)
+
 
 ## Apps
 
-#### Accounting
- - [Clams](https://clams.tech/) - Dedicated accounting platform for your wallet
- - [LNbits](https://lnbits.com/) - Open-source toolbox, accounting and extension system that might use NWC as funding source
-
-#### Browsers
- - [Spring Browser](https://spring.site/) - Purpose-built browser to explore the universe of Nostr apps
-
-#### Chat
- - [0xChat](https://0xchat.com/) - Chat app built on the Nostr protocol with encrypted group chats
- - [Corny Chat](https://cornychat.com/) - Audio & chat rooms with zaps, over Nostr
- - [ThunderTip](https://github.com/d4rp4t/ThunderTip) - Telegram tipping bot via your own connected wallet
-
-#### Crowdfunding & Projects Hub
+#### Crowdfunding
  - [Geyser](https://geyser.fund/) - Crowdfunding ideas, projects and product sales, p2p with bitcoin
-   
-#### Community Apps
-- [Hivetalk](https://hivetalk.org/) - Videocalls, messaging and screensharing with Nostr login and zaps
-- [Nostr Kiwi](https://nostr.kiwi/) - Place for you to share notes & curate content in communities
-- [Stacker News](https://stacker.news/) - Internet communities that let you upvote content and pay you bitcoin
-- [Zapddit](https://zapddit.com/) - Choose topics to follow and join communities
+
+### Education
+- [PlebDevs](https://plebdevs.com/) - Online courses on Bitcoin & Lightning code development
+
+#### Finance, Accounting & Payment Tools
+ - [BitcoinLink](https://www.bitcoinlink.app/) - Create URL vouchers to send sats from your wallet
+ - [Bringin](https://bringin.xyz/) - Sell bitcoin from your wallet directly to IBAN accounts
+ - [BTCPay Server](https://btcpayserver.org/) - Open-source payment processor
+ - [BuzzPay PoS](https://github.com/getAlby/pos) - Super simple self-custodial PoS
+ - [Clams](https://clams.tech/) - Dedicated accounting platform for your wallet
+ - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
+ - [ZapPlanner](https://zapplanner.albylabs.com/) - Send regular payments to your favorite publisher
+ - [ZapplePay](https://www.zapplepay.com/) - Smart app to zap from any nostr client & auto-zaps
 
 #### Games
 - [Satoshi Settlers](https://satoshisettlers.com/) - Settle and develop the blocks of Bitcoin on a shared world map
 - [Zappy Bird](https://rolznz.github.io/zappy-bird/) - Super fun version of Flappy Bird
 
+#### Live Streaming
+- [HiveTalk](https://hivetalk.org/) - Videocalls, messaging and screensharing with Nostr login and zaps
+- [Corny Chat](https://cornychat.com/) - Audio & chat rooms with zaps, over Nostr
+- [Zap.Stream](https://zap.stream/) - Slick website for live streaming and chat with zaps
+
 #### Long-form Content Publishing
 - [Habla](https://habla.news/) - Read, write, curate and monetize long form content over Nostr
-- [YakiHonne](https://yakihonne.com/) - A well-designed decentralized long-form content media platform
 - [Highlighter](https://highlighter.com/) - Highlighter stands out by offering creators true ownership of their audience
+- [YakiHonne](https://yakihonne.com/) - A well-designed decentralized long-form content media platform
 
-#### Media & Video publishing
+#### Messengers
+ - [0xChat](https://0xchat.com/) - Chat app built on the Nostr protocol with encrypted group chats
+
+#### Music
 - [Wavlake](https://www.wavlake.com/) - Music streaming app with direct contributions to creators
-- [Zap.Stream](https://zap.stream/) - Slick website for live streaming and chat with zaps
-   
-#### Finance & Payment Planners
- - [BitcoinLink](https://www.bitcoinlink.app/) - Create URL vouchers to send sats from your wallet
- - [ZapPlanner](https://zapplanner.albylabs.com/) - Send regular payments to your favorite publisher
- - [ZapplePay](https://www.zapplepay.com/) - Smart app to zap from any nostr client & auto-zaps
- - [Bringin](https://bringin.xyz/) - Sell bitcoin from your wallet directly to IBAN accounts
 
-#### Payment tools, Point of Sale 
- - [BTCPay Server](https://btcpayserver.org/) - Open-source payment processor
- - [BuzzPay PoS](https://github.com/getAlby/pos) - Super simple self-custodial PoS
- - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
-
-#### Short-form Content Publishing 
+#### Social Media, Short-form Content Publishing 
  - [Amethyst](https://github.com/vitorpamplona/amethyst) - Feature-rich Nostr client for Android
  - [Coracle](https://coracle.social/) - Web client for the Nostr protocol
  - [Damus](https://damus.io/) -  Excellent Nostr client for iOS
  - [Freerse](https://freerse.com/) - Nostr client for Android and iOS
- - [Freefrom](https://freefrom.space/) - Closed-source, twitter like client for Androis and iOS
+ - [FreeFrom](https://freefrom.space/) - Closed-source, twitter like client for Androis and iOS
  - [Lume](https://github.com/lumehq/lume/tree/v2.2.3) - Multi-purpose nostr client for Desktop
  - [More Speech](https://github.com/unclebob/more-speech) - A desktop client for the Nostr protocol
- - [noStrudel](https://nostrudel.ninja/) - Platform for notes and streaming over Nostr
- - [Nostter](https://nostter.app/) - Lightweight, elegant client with NWC
+ - [Nostr Kiwi](https://nostr.kiwi/) - Place for you to share notes & curate content in communities
+ - [NoStrudel](https://nostrudel.ninja/) - Platform for notes and streaming over Nostr
  - [Nostur](https://nostur.com/) - Top-notch Nostr client for iOS
- - [Primal](https://primal.net/) - Super fast Nostr client for web, Android and iOS
+ - [Nostter](https://nostter.app/) - Lightweight, elegant client with NWC
+ - [Primal (Android only)](https://primal.net/) - Super fast Nostr client for web, Android and iOS
  - [Snort](https://snort.social/) - Feature-packed Nostr web client
+ - [Stacker News](https://stacker.news/) - Internet communities that let you upvote content and pay you bitcoin
  - [Whereostr](https://wherostr.social/) - Explore where your Nostr friends are located
- - [Yana](https://yana.do/) - Yet another Nostr app for web, Android and iOS but with very responsive UI
+ - [Yana](https://yana.do/) - Yet another Nostr app for Android and iOS
+ - [Zapddit](https://zapddit.com/) - Choose topics to follow and join communities
+
+#### Tip Bots
+ - [Zap Bot](https://www.makeprisms.com/apps) - Discord tipping bot via your own connected wallet
+ - [ThunderTip](https://github.com/d4rp4t/ThunderTip) - Telegram tipping bot via your own connected wallet
 
 #### Wallet Interfaces
+- [Alby Account](https://www.getalby.com) - Web wallet interface and lightning address to NWC wallets with ability to log in with OAuthto many apps (eg. Podcasting 2.0)
 - [Alby Browser Extension](https://getalby.com/#extension) - Connect your wallet and surf the web of bitcon apps
 - [Alby Go](https://albygo.com/) - Slick mobile interface with multi wallet support
-- [getAlby.com](https://getalby.com/) - Web wallet interface and Lightning Address service to NWC wallets
 - [Nostr Pay](https://github.com/aniketambore/nostr_pay) - Simple Android app to connect for your NWC wallet
-- [Vortex](https://www.raycast.com/saunter/vortex) - The fastest way to use bitcoin on macOS
+- [Vortex](https://www.raycast.com/saunter/vortex) - [Raycast](https://www.raycast.com/) extension, the fastest way to use bitcoin on macOS
 - [Brick Wallet](https://github.com/supertestnet/brick-wallet) - A web frontend for NWC
 
-## NWC Developer Tools & Libraries for Apps
-These tools and libraries help apps to integrate the NWC protocol and enable in-app payments
-- [Alby JS SDK](https://github.com/getAlby/js-sdk?tab=readme-ov-file#nostr-wallet-connect-documentation) - JavaScript SDK for apps to handle NWC connection strings
-- [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect) - Easy to integrate components for web apps that let users connect their lightning wallets with a full payment flow UX
-- [rust-nostr](https://github.com/rust-nostr/nostr) - Nostr protocol implementation, SDK and FFI
-- [NDK](https://github.com/nostr-dev-kit/ndk) - Nostr Development Kit
-- [NWC HTTP API](https://guides.getalby.com/developer-guide/v/nostr-wallet-connect-api/building-lightning-apps/communicating-payment-requests) - HTTP API to communicate NWC payment requests without the need of websockets
-- [$prism](https://www.makeprisms.com/) - API for apps to connect to wallet services
-- [Python3 library](https://github.com/supertestnet/python_nwc)
-- [React Native (Expo)](https://github.com/getAlby/nwc-react-native-expo) - An example of using Alby JS SDK (Nostr Wallet Connect) in a React Native Expo project
-- [Dart Package](https://pub.dev/packages/nwc) - A Dart package that simplifies the integration of Nostr Wallet Connect into client applications.
-- [Flutter Package](https://github.com/kumulynja/nwc_wallet) - A Flutter package that takes care of the wallet service side of the NWC.
-- [Vanilla Javascript library](https://github.com/supertestnet/nwcjs)
+#### Miscellaneous
+ - [Bullish Bulleetin](https://bullishbulletin.vercel.app/) - Post a message on a public board
+ - [Spring Browser](https://spring.site/) - Purpose-built browser to explore the universe of Nostr apps
 
-## NWC Wallets
-- [Alby](https://www.getalby.com) - Lightning wallet features ready to link your node with NWC apps
-- [Alby Hub](https://albyhub.com/) - Self-custodial lightning node with wallet and most seamless NWC service
-- [Bankify](https://supertestnet.github.io/bankify/) - Turn any cashu mint into a lightning wallet with NWC support
-- [CasaOS](https://casaos.io/) - Open-source personal cloud system
-- [Cashu.me](https://wallet.cashu.me/) - eCash-based Cashu wallet PWA
-- [Coinos](https://coinos.io/) - Free custodial web wallet and payment page
-- [Lifpay](https://lifpay.me/) - Custodial mobile lightning wallet, with multiple accounts and Nostr integration
-- [Minibits](https://www.minibits.cash/) - ECash wallet with a focus on performance and usability
-- [Mutiny](https://www.mutinywallet.com) - self-custodial lightning wallet that is targeting the web browser first
-- [Start9](https://start9.com/) - Linux-based operating system optimized for running a personal server and bitcoin node
-- [Umbrel](https://umbrel.com/) - A beautiful home server OS for self-hosting apps and your bitcoin node
-
-The following apps are NWC wallet services with access to the APIs of the wallets they serve and let users create connection strings:
-- [Core Lightning](https://github.com/gudnuf/cln_nwc) - NWC plugin for CLN
-- [Breez SDK](https://github.com/getAlby/nostr-wallet-connect-next) - NWC service for the Breez SDK (experimental)
-- [LNbits](https://github.com/SamSamskies/lnbits-nwc-service) - Nostr Wallet Connect service using LNbits API (experimental)
-- [LND](https://github.com/benthecarman/nostr-wallet-connect-lnd) - Nostr Wallet Connect for LND nodes
-- [NWC](https://github.com/getAlby/nostr-wallet-connect) - Open-source wallet service to allow 3rd-party apps to connect to your wallet or node
-- [Start9](https://marketplace.start9.com/nostr-wallet-connect) - Wallet service for StartOS users
-- [Strike](https://github.com/SamSamskies/strike-nwc-service) - NWC service using Strike API (experimental)
-- [Umbrel](https://github.com/getAlby/nostr-wallet-connect) - Wallet service for Umbrel nodes
 
 ## Communities Using NWC
-- [NWC.dev](https://discord.nwc.dev/) - Discord channel for developers building apps and wallets with Nostr Wallet Connect 
-- [Alby's Discord](https://discord.getalby.com/) - Users, friends and team of Alby, with NWC as preferred app<>wallet connection protocol
-- [PlebDevs](https://plebdevs.com/) - Online courses on Bitcoin & Lightning code development
-- [Plebnet.dev](https://discord.gg/VJfNn2nby5) - A Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
+- [NWC.dev Discord](https://discord.nwc.dev/) - Discord channel for developers building apps and wallets with Nostr Wallet Connect 
+- [Bitcoin Design Discord](https://discord.gg/K7aQ5PErht) - open source community of Bitcoin designers
+- [Alby Discord](https://discord.getalby.com/) - Users, friends and team of Alby, with NWC as preferred app<>wallet connection protocol
+- [Plebnet Discord](https://discord.gg/VJfNn2nby5) - A Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
 
-## Misc
+
+## NWC Developer Tools & Libraries
+These tools and libraries help apps to integrate the NWC protocol and enable in-app payments
+- [$prism](https://www.makeprisms.com/) - API for apps to connect to wallet services
+- [Alby JS SDK](https://github.com/getAlby/js-sdk?tab=readme-ov-file#nostr-wallet-connect-documentation) - JavaScript SDK for apps to handle NWC connection strings
+- [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect) - Easy to integrate components for web apps that let users connect their lightning wallets with a full payment flow UX
+- [Dart Package](https://pub.dev/packages/nwc) - A Dart package that simplifies the integration of Nostr Wallet Connect into client applications
+- [Flutter Package](https://github.com/kumulynja/nwc_wallet) - A Flutter package that takes care of the wallet service side of the NWC
 - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC
-- [LN Node](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
-- [Nodana](https://nodana.io/) - 1-click deployment of Alby Hub, LNbits (with NWC) and other services in the cloud
-- [Simple NWC Tester](https://getalby.github.io/nwc-tester/) - Test NWC Connection Secrets
-- [Advanced NWC Tester](https://supertestnet.github.io/nwc_tester/) - Check NWC Connection Secrets' permissions, perform events
+- [NDK](https://github.com/nostr-dev-kit/ndk) - Nostr Development Kit
+- [NWC HTTP API](https://guides.getalby.com/developer-guide/v/nostr-wallet-connect-api/building-lightning-apps/communicating-payment-requests) - HTTP API to communicate NWC payment requests without the need of websockets
+- [nwcjs](https://github.com/supertestnet/nwcjs) - Vanilla Javascript library
+- [NWC Tester (Simple)](https://getalby.github.io/nwc-tester/) - Test NWC Connection Secrets
+- [NWC Tester (Advanced)](https://supertestnet.github.io/nwc_tester/) - Check NWC Connection Secrets' permissions, perform events
+- [Python3 library](https://github.com/supertestnet/python_nwc)
+- [React Native (Expo)](https://github.com/getAlby/nwc-react-native-expo) - An example of using Alby JS SDK (Nostr Wallet Connect) in a React Native Expo project
+- [Rust Nostr](https://github.com/rust-nostr/nostr) - Nostr protocol implementation, SDK and FFI
+
+## Protocols
+Protocols built on top, or interoperable with NWC
+- [LN Link](https://docs.lnfi.network/lnfi-products/ln-node/ln-link) - Extenstion of NWC for Taproot assets
+- [UMA Auth](https://docs.uma.me/uma-auth/introduction) - Extends NWC to simplify the UX of connecting a wallet (using OAuth 2.0), and add cross-currency payments
+- [Nostr Wallet Auth](https://github.com/nostr-protocol/nips/pull/851?ref=blog.mutinywallet.com) - Protocol allowing to initiate NWC connections from the app instead of from NWC wallets
+
