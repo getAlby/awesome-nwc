@@ -14,6 +14,11 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-nwc/
 NWC is an open protocol to be implemented by bitcoin lightning wallets and any app to add bitcoin payment functionality.
 Users connect wallets instantly – no Nostr account required. Apps orchestrate payments between these wallets without ever touching funds. 
 
+#### Learn More
+- [nwc.dev](https://nwc.dev)
+- [NIP-47](https://github.com/nostr-protocol/nips/blob/master/47.md)
+- [NWC interoperability tracker](https://github.com/nostrability/nostrability/issues/77)
+
 ## Content
 - ⚡ [NWC Wallets](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallets)
 - 📱 [Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#apps)
