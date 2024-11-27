@@ -15,8 +15,7 @@ NWC is an open protocol to be implemented by bitcoin lightning wallets and any a
 Users connect wallets instantly – no Nostr account required. Apps orchestrate payments between these wallets without ever touching funds. 
 
 ## Content
-- 👛 [NWC Wallets](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallets)
-- 🏦 [Wallet Services](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallet-services)
+- ⚡ [NWC Wallets](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallets)
 - 📱 [Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#apps)
 - 👥 [Communities Using NWC](https://github.com/getAlby/awesome-nwc/blob/master/README.md#communities-using-nwc)
 - 🛠️ [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-developer-tools--libraries)
@@ -31,7 +30,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [Lifpay](https://lifpay.me/) - Custodial mobile lightning wallet, with multiple accounts and Nostr integration
 - [LNbits](https://lnbits.com/) - Powerful suite of bitcoin tools that has Nostr Wallet Connect plugin
 - [LN Node](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
-- [Minibits](https://www.minibits.cash/) - ECash wallet with a focus on performance and usability
+- [Minibits](https://www.minibits.cash/) - eCash wallet with a focus on performance and usability
 - [Mutiny](https://www.mutinywallet.com) - Self-custodial lightning wallet that is targeting the web browser first
 - [Rizful](https://rizful.com/) - Instant, disposable Lightning nodes, optimized for education
 
@@ -41,22 +40,24 @@ Those below support at least one of NWC wallets in their official appstores:
 - [Start9](https://start9.com/) - Linux-based operating system optimized for running a personal server and bitcoin node
 - [Umbrel](https://umbrel.com/) - A beautiful home server OS for self-hosting apps and your bitcoin node
 
-#### Other 
+#### Cloud Hosting
+- [Alby Cloud](https://getalby.com/pricing) - 1-click cloud deployment of Alby Hub that comes with a lightning address
 - [Nodana](https://nodana.io/) - 1-click deployment of Alby Hub, LNbits (with NWC) and other services in the cloud
 
-
-## NWC Wallet Services
-The following apps are NWC wallet services with access to the APIs of the wallets they serve and let users create connection strings:
-- [Breez SDK](https://github.com/getAlby/nostr-wallet-connect-next) - NWC service for the Breez SDK (experimental)
-- [Cashu](https://github.com/getAlby/hub) - NWC service for the Cashu (experimental)
-- [Core Lightning](https://github.com/gudnuf/cln_nwc) - NWC plugin for CLN
+#### Lightning Backends
+The following nodes or lightning backends can be used by at least one of the NWC wallets:
+- [Breez SDK](https://github.com/getAlby/nostr-wallet-connect-next) - Experimental
+- [Cashu](https://github.com/getAlby/hub) - Experimental
 - [Greenlight](https://github.com/getAlby/glalby) - Greenlight Rust Go bindings
-- [LNbits](https://github.com/SamSamskies/lnbits-nwc-service) - Nostr Wallet Connect service using LNbits API (experimental)
 - [LND](https://github.com/benthecarman/nostr-wallet-connect-lnd) - Nostr Wallet Connect for LND nodes
 - [LDK](https://github.com/getAlby/ldkalby) - LDK Rust Go bindings (WIP)
-- [phoenixd](https://github.com/getAlby/hub) - NWC service for phoenixd
-- [Strike](https://github.com/SamSamskies/strike-nwc-service) - NWC service using Strike API (experimental)
+- [phoenixd](https://github.com/getAlby/hub) - Nostr Wallet Connect for phoenixd
 
+## NWC Wallet Services 
+The following apps are NWC wallet services with access to the APIs of the wallets they serve and let users create connection strings:
+- [Core Lightning NWC Plugin](https://github.com/gudnuf/cln_nwc) - NWC plugin for CLN
+- [LNbits NWC Service](https://github.com/SamSamskies/lnbits-nwc-service) - Nostr Wallet Connect service using LNbits API (experimental)
+- [Strike NWC Service](https://github.com/SamSamskies/strike-nwc-service) - NWC service using Strike API (experimental)
 
 ## Apps
 
