@@ -167,6 +167,7 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [Python3 library](https://github.com/supertestnet/python_nwc)
 - [React Native (Expo)](https://github.com/getAlby/nwc-react-native-expo) - An example of using Alby JS SDK (Nostr Wallet Connect) in a React Native Expo project
 - [Rust Nostr](https://github.com/rust-nostr/nostr) - Nostr protocol implementation, SDK and FFI
+- [dart NDK](https://pub.dev/packages/ndk) - Nostr Development Kit for Dart/Flutter
 
 ## Protocols
 Protocols built on top, or interoperable with NWC
