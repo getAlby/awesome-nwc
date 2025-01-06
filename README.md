@@ -39,13 +39,15 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [Mutiny](https://www.mutinywallet.com) - Self-custodial lightning wallet that is targeting the web browser first
 - [Rizful](https://rizful.com/) - Instant, disposable Lightning nodes, optimized for education
 
-#### Operating Systems
+#### Embedded Operating Systems
 Those below support at least one of NWC wallets in their official appstores:
 - [CasaOS](https://casaos.io/) - Open-source personal cloud system
+- [Raspiblitz](https://raspiblitz.org/) - Bitcoin & Lightning Fullnode running on a RaspberryPi
 - [Start9](https://start9.com/) - Linux-based operating system optimized for running a personal server and bitcoin node
 - [Umbrel](https://umbrel.com/) - A beautiful home server OS for self-hosting apps and your bitcoin node
+- [Unraid](https://unraid.net/) - Operating system for self-hosted servers and network-attached storage
 
-#### Cloud Hosting
+#### Cloud Hosting of NWC nodes
 - [Alby Cloud](https://getalby.com/pricing) - 1-click cloud deployment of Alby Hub that comes with a lightning address
 - [Nodana](https://nodana.io/) - 1-click deployment of Alby Hub, LNbits (with NWC) and other services in the cloud
 
@@ -58,7 +60,7 @@ The following nodes or lightning backends can be used by at least one of the NWC
 - [LDK](https://github.com/getAlby/ldkalby) - LDK Rust Go bindings (WIP)
 - [phoenixd](https://github.com/getAlby/hub) - Nostr Wallet Connect for phoenixd
 
-## NWC Wallet Services 
+#### NWC Wallet Services 
 The following apps are NWC wallet services with access to the APIs of the wallets they serve and let users create connection strings:
 - [Core Lightning NWC Plugin](https://github.com/gudnuf/cln_nwc) - NWC plugin for CLN
 - [LNbits NWC Service](https://github.com/SamSamskies/lnbits-nwc-service) - Nostr Wallet Connect service using LNbits API (experimental)
@@ -114,6 +116,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [NoStrudel](https://nostrudel.ninja/) - Platform for notes and streaming over Nostr
  - [Nostur](https://nostur.com/) - Top-notch Nostr client for iOS
  - [Nostter](https://nostter.app/) - Lightweight, elegant client with NWC
+ - [Olas](https://testflight.apple.com/join/2FMVX2yM) - Instagram-like Nostr app for iOS
  - [Primal (Android only)](https://primal.net/) - Super fast Nostr client for web, Android and iOS
  - [Snort](https://snort.social/) - Feature-packed Nostr web client
  - [Stacker News](https://stacker.news/) - Internet communities that let you upvote content and pay you bitcoin
@@ -122,8 +125,9 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Zapddit](https://zapddit.com/) - Choose topics to follow and join communities
 
 #### Tip Bots
- - [Zap Bot](https://www.makeprisms.com/apps) - Discord tipping bot via your own connected wallet
  - [ThunderTip](https://github.com/d4rp4t/ThunderTip) - Telegram tipping bot via your own connected wallet
+ - [Zap Bot](https://www.makeprisms.com/apps) - Discord tipping bot via your own connected wallet
+ - [ZapGram](https://t.me/zap_gram_bot ) - Bitcoin Lightning wallet in Telegram
 
 #### Wallet Interfaces
 - [Alby Account](https://www.getalby.com) - Web wallet interface and lightning address to NWC wallets with ability to log in with OAuthto many apps (eg. Podcasting 2.0)
@@ -134,15 +138,15 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Brick Wallet](https://github.com/supertestnet/brick-wallet) - A web frontend for NWC
 
 #### Miscellaneous
- - [Bullish Bulleetin](https://bullishbulletin.vercel.app/) - Post a message on a public board
+ - [Bullish Bulletin](https://bullishbulletin.vercel.app/) - Post a message on a public board
  - [Spring Browser](https://spring.site/) - Purpose-built browser to explore the universe of Nostr apps
 
 
 ## Communities Using NWC
+- [**NWC.dev Discord**](https://discord.nwc.dev/) - Discord channel for developers building apps and wallets with Nostr Wallet Connect
 - [Alby Discord](https://discord.getalby.com/) - Users, friends and team of Alby, with NWC as preferred app<>wallet connection protocol
 - [Bitcoin Design Discord](https://discord.gg/K7aQ5PErht) - Open source community of Bitcoin designers
-- [Dwadzieścia Jeden Telegram](https://discord.gg/K7aQ5PErht) - Community of pPlish bitcoiners
-- [NWC.dev Discord](https://discord.nwc.dev/) - Discord channel for developers building apps and wallets with Nostr Wallet Connect 
+- [Dwadzieścia Jeden Telegram](https://t.me/dwadziesciajeden) - Community of Polish bitcoiners
 - [Plebnet Discord](https://discord.gg/VJfNn2nby5) - A Bitcoin-centric group dedicated to shaping the future through open source Bitcoin and lightning infrastructure.
 
 
