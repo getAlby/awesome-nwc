@@ -140,6 +140,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 #### Miscellaneous
  - [Bullish Bulletin](https://bullishbulletin.vercel.app/) - Post a message on a public board
  - [Spring Browser](https://spring.site/) - Purpose-built browser to explore the universe of Nostr apps
+ - [Zapstore](https://zapstore.dev) - Open, permissionless app store with zaps
 
 
 ## Communities Using NWC
