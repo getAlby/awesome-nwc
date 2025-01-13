@@ -73,6 +73,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 ### Education
 - [PlebDevs](https://plebdevs.com/) - Online courses on Bitcoin & Lightning code development
+- [Pull that up, Jamie!](https://www.pullthatupjamie.ai/) - Search engine powered with AI
 
 #### Finance, Accounting & Payment Tools
  - [BitcoinLink](https://www.bitcoinlink.app/) - Create URL vouchers to send sats from your wallet
