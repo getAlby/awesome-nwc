@@ -134,9 +134,11 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Alby Account](https://www.getalby.com) - Web wallet interface and lightning address to NWC wallets with ability to log in with OAuthto many apps (eg. Podcasting 2.0)
 - [Alby Browser Extension](https://getalby.com/#extension) - Connect your wallet and surf the web of bitcon apps
 - [Alby Go](https://albygo.com/) - Slick mobile interface with multi wallet support
-- [Nostr Pay](https://github.com/aniketambore/nostr_pay) - Simple Android app to connect for your NWC wallet
-- [Vortex](https://www.raycast.com/saunter/vortex) - [Raycast](https://www.raycast.com/) extension, the fastest way to use bitcoin on macOS
 - [Brick Wallet](https://github.com/supertestnet/brick-wallet) - A web frontend for NWC
+- [Nostr Pay](https://github.com/aniketambore/nostr_pay) - Simple Android wallet connecting to your NWC wallet [_not maintained_]
+- [Vortex](https://www.raycast.com/saunter/vortex) - [Raycast](https://www.raycast.com/) extension, the fastest way to use bitcoin on macOS
+- [Zeus](https://zeusln.com/) - Mobile multi-wallet with embedded node, LNDhub and NWC connections (_from 0.10_)
+
 
 #### Miscellaneous
  - [Bullish Bulletin](https://bullishbulletin.vercel.app/) - Post a message on a public board
