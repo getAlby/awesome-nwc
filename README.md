@@ -38,6 +38,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [Minibits](https://www.minibits.cash/) - eCash wallet with a focus on performance and usability
 - [Mutiny](https://www.mutinywallet.com) - Self-custodial lightning wallet that is targeting the web browser first
 - [Rizful](https://rizful.com/) - Instant, disposable Lightning nodes, optimized for education
+- [Unraid](https://unraid.net/) - Operating system for self-hosted servers, apps and storage
 
 #### Embedded Operating Systems
 Those below support at least one of NWC wallets in their official appstores:
@@ -125,7 +126,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Yana](https://yana.do/) - Yet another Nostr app for Android and iOS
  - [Zapddit](https://zapddit.com/) - Choose topics to follow and join communities
 
-#### Tip Bots
+#### Tipping Bots
  - [ThunderTip](https://github.com/d4rp4t/ThunderTip) - Telegram tipping bot via your own connected wallet
  - [Zap Bot](https://www.makeprisms.com/apps) - Discord tipping bot via your own connected wallet
  - [ZapGram](https://t.me/zap_gram_bot ) - Bitcoin Lightning wallet in Telegram
@@ -143,6 +144,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 #### Miscellaneous
  - [Bullish Bulletin](https://bullishbulletin.vercel.app/) - Post a message on a public board
  - [Spring Browser](https://spring.site/) - Purpose-built browser to explore the universe of Nostr apps
+ - [Zapper](https://zapper.fun/) - Bulk zap payments, to any Nostr event
  - [Zapstore](https://zapstore.dev) - Open, permissionless app store with zaps
 
 
