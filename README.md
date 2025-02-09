@@ -37,6 +37,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [LN Node](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
 - [Minibits](https://www.minibits.cash/) - eCash wallet with a focus on performance and usability
 - [Mutiny](https://www.mutinywallet.com) - Self-custodial lightning wallet that is targeting the web browser first
+- [Primal](https://primal.net/) - Custodial wallet integrated with Primal's mobile Nostr client
 - [Rizful](https://rizful.com/) - Instant, disposable Lightning nodes, optimized for education
 - [Unraid](https://unraid.net/) - Operating system for self-hosted servers, apps and storage
 
@@ -119,7 +120,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Nostur](https://nostur.com/) - Top-notch Nostr client for iOS
  - [Nostter](https://nostter.app/) - Lightweight, elegant client with NWC
  - [Olas](https://testflight.apple.com/join/2FMVX2yM) - Instagram-like Nostr app for iOS
- - [Primal (Android only)](https://primal.net/) - Super fast Nostr client for web, Android and iOS
+ - [Primal](https://primal.net/) - Fast and easy Nostr client for web, Android and iOS
  - [Snort](https://snort.social/) - Feature-packed Nostr web client
  - [Stacker News](https://stacker.news/) - Internet communities that let you upvote content and pay you bitcoin
  - [Whereostr](https://wherostr.social/) - Explore where your Nostr friends are located
