@@ -52,6 +52,7 @@ Those below support at least one of NWC wallets in their official appstores:
 #### Cloud Hosting of NWC nodes
 - [Alby Cloud](https://getalby.com/pricing) - 1-click cloud deployment of Alby Hub that comes with a lightning address
 - [Nodana](https://nodana.io/) - 1-click deployment of Alby Hub, LNbits (with NWC) and other services in the cloud
+- [Eggstr](https://www.eggstr.com/) - Easy deployment of Nostr & Bitcoin apps with own domain
 
 #### Lightning Backends
 The following nodes or lightning backends can be used by at least one of the NWC wallets:
@@ -70,10 +71,14 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 ## Apps
 
+#### AI
+ - [Unleashed.chat](https://unleashed.chat/) - Chat interface to open-source LLM models, file support and DVMs
+
 #### Crowdfunding
  - [Geyser](https://geyser.fund/) - Crowdfunding ideas, projects and product sales, p2p with bitcoin
 
-### Education
+#### Education
+- [Kanbanstr](https://www.kanbanstr.com/) - Kanban boards over Nostr, with zaps
 - [PlebDevs](https://plebdevs.com/) - Online courses on Bitcoin & Lightning code development
 - [Pull that up, Jamie!](https://www.pullthatupjamie.ai/) - Search engine powered with AI
 
@@ -107,7 +112,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 #### Music
 - [Wavlake](https://www.wavlake.com/) - Music streaming app with direct contributions to creators
 
-#### Social Media, Short-form Content Publishing 
+#### Social Media, Short-form Content 
  - [Amethyst](https://github.com/vitorpamplona/amethyst) - Feature-rich Nostr client for Android
  - [Coracle](https://coracle.social/) - Web client for the Nostr protocol
  - [Damus](https://damus.io/) -  Excellent Nostr client for iOS
@@ -144,6 +149,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 #### Miscellaneous
  - [Bullish Bulletin](https://bullishbulletin.vercel.app/) - Post a message on a public board
+ - [Nostrcheck Server](https://nostrcheck.me/) - Comprehensive toolbox for Nostr, with NIP-05 registration, file uploads, gallery, profile management and more
  - [Spring Browser](https://spring.site/) - Purpose-built browser to explore the universe of Nostr apps
  - [Zapper](https://zapper.fun/) - Bulk zap payments, to any Nostr event
  - [Zapstore](https://zapstore.dev) - Open, permissionless app store with zaps
