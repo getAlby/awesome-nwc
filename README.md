@@ -32,7 +32,6 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [Bankify](https://supertestnet.github.io/bankify/) - Turn any cashu mint into a lightning wallet with NWC support
 - [Cashu.me](https://wallet.cashu.me/) - eCash-based Cashu wallet PWA
 - [Coinos](https://coinos.io/) - Free custodial web wallet and payment page
-- [Lifpay](https://lifpay.me/) - Custodial mobile lightning wallet, with multiple accounts and Nostr integration
 - [LNbits](https://lnbits.com/) - Powerful suite of bitcoin tools that has Nostr Wallet Connect plugin
 - [LN Node](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
 - [Minibits](https://www.minibits.cash/) - eCash wallet with a focus on performance and usability
