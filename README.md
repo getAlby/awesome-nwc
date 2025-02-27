@@ -101,6 +101,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Zap.Stream](https://zap.stream/) - Slick website for live streaming and chat with zaps
 
 #### Long-form Content Publishing
+- [Bitcoin Lightning Publisher](https://wordpress.org/plugins/bitcoin-lightning-publisher/) - A Wordpress plugin to accept donations and set paywalls on websites
 - [Habla](https://habla.news/) - Read, write, curate and monetize long form content over Nostr
 - [Highlighter](https://highlighter.com/) - Highlighter stands out by offering creators true ownership of their audience
 - [YakiHonne](https://yakihonne.com/) - A well-designed decentralized long-form content media platform
