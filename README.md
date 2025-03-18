@@ -75,6 +75,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 #### Crowdfunding
  - [Geyser](https://geyser.fund/) - Crowdfunding ideas, projects and product sales, p2p with bitcoin
+ - [Lightning Piggy](https://www.lightningpiggy.com/) - Electronic piggy bank for children that collects bitcoin lightning sats.
 
 #### Education
 - [Kanbanstr](https://www.kanbanstr.com/) - Kanban boards over Nostr, with zaps
