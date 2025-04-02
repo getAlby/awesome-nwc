@@ -35,6 +35,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [LNbits](https://lnbits.com/) - Powerful suite of bitcoin tools that has Nostr Wallet Connect plugin
 - [LN Node](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
 - [Minibits](https://www.minibits.cash/) - eCash wallet with a focus on performance and usability
+- [Orange Pill App](https://web.orangepillapp.com/login) - Social app with a custodial wallet
 - [Mutiny](https://www.mutinywallet.com) - Self-custodial lightning wallet that is targeting the web browser first
 - [Primal](https://primal.net/) - Custodial wallet integrated with Primal's mobile Nostr client
 - [Rizful](https://rizful.com/) - Instant, disposable Lightning nodes, optimized for education
