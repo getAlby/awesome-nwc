@@ -173,7 +173,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Noogle](https://noogle.lol/) - Nostr search engine powered by Data Vending Machines
  - [Nostrcheck Server](https://nostrcheck.me/) - Comprehensive toolbox for Nostr, with NIP-05 registration, file uploads, gallery, profile management and more
  - [Spring Browser](https://spring.site/) - Purpose-built browser to explore the universe of Nostr apps
- - [The Bullish Shop](https://www.thebullish.shop/) - Bitcoin fashiion and merchandise store
+ - [The Bullish Shop](https://www.thebullish.shop/) - Bitcoin fashion and merchandise store
  - [Zapper](https://zapper.fun/) - Bulk zap payments, to any Nostr event
  - [Zapstore](https://zapstore.dev) - Open, permissionless app store with zaps
 
