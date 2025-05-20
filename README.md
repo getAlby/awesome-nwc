@@ -46,6 +46,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [Primal Wallet](https://primal.net/) - Custodial wallet integrated with Primal Nostr clients
 - [Rizful](https://rizful.com/) - Instant, disposable Lightning nodes, optimized for education
 - [Sparky Hub](https://sparkyhub.albylabs.com/login) - Experimental Spark wallet that can pay lightning invoices through NWC
+- [Zap.land](https://zap.land/) - Open-source example app built on nwc-enclaved wallet to create a lightning wallet with one click
 
 #### Embedded Operating Systems
 Those below support at least one of NWC wallets in their official appstores:
