@@ -80,8 +80,8 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 ## Apps
 
 #### AI
-- [dataMachine](https://unleashed.chat/) - Chat interface to open-source LLM models, file support and DVMs
-- [NWC MCP Server]([https://unleashed.chat/](https://github.com/getAlby/nwc-mcp-server/)) - Connect your wallet to your AI agent
+- [dataMachine](https://datamachine.ai/) - Chat interface to open-source LLM models, file support and DVMs
+- [NWC MCP Server](https://github.com/getAlby/nwc-mcp-server/) - Connect your wallet to your AI agent
 - [Pull that up, Jamie!](https://www.pullthatupjamie.ai/) - Search engine powered with AI
 
 #### Crowdfunding
