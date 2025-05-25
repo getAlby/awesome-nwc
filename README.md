@@ -73,7 +73,8 @@ The following nodes or lightning backends can be used by at least one of the NWC
 
 #### NWC Wallet Services 
 The following apps are NWC wallet services with access to the APIs of the wallets they serve and let users create connection strings:
-- [Core Lightning NWC Plugin](https://github.com/gudnuf/cln_nwc) - NWC plugin for CLN
+- [Core Lightning NWC Plugin](https://github.com/daywalker90/cln-nip47) - NWC plugin for CLN by daywalker90
+- [Core Lightning NWC Plugin](https://github.com/gudnuf/cln_nwc) - NWC plugin for CLN by gudnuf
 - [LNbits NWC Service](https://github.com/SamSamskies/lnbits-nwc-service) - Nostr Wallet Connect service using LNbits API (experimental)
 - [Strike NWC Service](https://github.com/SamSamskies/strike-nwc-service) - NWC service using Strike API (experimental)
 
