@@ -113,7 +113,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 #### Live Streaming
 - [HiveTalk](https://hivetalk.org/) - Videocalls, messaging and screensharing with Nostr login and zaps
 - [Corny Chat](https://cornychat.com/) - Audio & chat rooms with zaps, over Nostr
-- [Zap.Stream](https://zap.stream/) - Slick website for live streaming and chat with zaps
+- [Zap.Stream](https://zap.stream/) - Slick website for live streaming and chat with zaps. Mobile app has 1-tap wallet connect.
 
 #### Long-form Content Publishing
 - [Bitcoin Lightning Publisher](https://wordpress.org/plugins/bitcoin-lightning-publisher/) - A Wordpress plugin to accept donations and set paywalls on websites
@@ -181,7 +181,6 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [The Bullish Shop](https://www.thebullish.shop/) - Bitcoin fashion and merchandise store
  - [Zapper](https://zapper.fun/) - Bulk zap payments, to any Nostr event
  - [Zapstore](https://zapstore.dev) - Open, permissionless app store with zaps
- - [Zap.stream](https://zap.stream) - Streams with zaps. Mobile app with 1-tap wallet connect.
 
 
 ## Hardware
