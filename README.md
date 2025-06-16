@@ -84,6 +84,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [dataMachine](https://datamachine.ai/) - Chat interface to open-source LLM models, file support and DVMs
 - [NWC MCP Server](https://github.com/getAlby/nwc-mcp-server/) - Connect your wallet to your AI agent
 - [Pull that up, Jamie!](https://www.pullthatupjamie.ai/) - Search engine powered with AI
+- [LNFly](https://lnfly.albylabs.com/?ref=blog.getalby.com) - Prototype lightning apps with a single prompt
 
 #### Crowdfunding
  - [Geyser](https://geyser.fund/) - Crowdfunding ideas, projects and product sales, p2p with bitcoin
@@ -92,14 +93,18 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Kanbanstr](https://www.kanbanstr.com/) - Kanban boards over Nostr, with zaps
 - [PlebDevs](https://plebdevs.com/) - Online courses on Bitcoin & Lightning code development
 
+#### Exchanges
+ - [Bringin](https://bringin.xyz/) - Sell bitcoin from your wallet directly to IBAN accounts
+ - [Swapido](https://www.swapido.com/) - Mexican bitcoin exchange with NWC integration 
+
 #### Finance, Accounting & Payment Tools
  - [BitcoinLink](https://www.bitcoinlink.app/) - Create URL vouchers to send sats from your wallet
- - [Bringin](https://bringin.xyz/) - Sell bitcoin from your wallet directly to IBAN accounts
  - [BTCPay Server](https://docs.btcpayserver.org/Nostr/) - Open-source payment processor
  - [BuzzPay PoS](https://github.com/getAlby/pos) - Super simple self-custodial PoS
  - [Cashu Redeem](https://redeem.cashu.me/) - Redeem cashu tokens to your NWC wallet
  - [Clams](https://clams.tech/) - Dedicated accounting platform for your wallet
  - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
+ - [NakaPay](https://paywithflash.com/) - Bitcoin Lightning payment service designed for developers and entrepreneurs
  - [NostrPIX](https://paywithflash.com/) - Service allowing to use lightning to make payments with bbrazilian instant payment network Pix
  - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
  - [ZapPlanner](https://zapplanner.albylabs.com/) - Send regular payments to your favorite publisher
@@ -163,6 +168,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Alby Account](https://www.getalby.com) - Web wallet interface and lightning address to NWC wallets with ability to log in with OAuth to many apps (eg. Podcasting 2.0)
 - [Alby Browser Extension](https://getalby.com/#extension) - Connect your wallets and surf the web of bitcon apps
 - [Alby Go](https://albygo.com/) - Slick mobile interface with multi wallet support
+- [Avocadough](https://avocadough.xyz/) - Open source iOS NWC wallet interface
 - [BitBanana](https://bitbanana.app/) - Mobile lightning wallet and node management for Android
 - [Bitvora](https://bitvora.com/) - Bitcoin Lightning API platform for businesses
 - [bullishNWC](https://bitvora.com/) - Progressive Web App wallet interface
@@ -174,6 +180,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 
 #### Miscellaneous
+  - [Blotto](https://lnfly.albylabs.com/api/apps/199/view) - Participate in lightning lottery. Buy lottery tickets and win prizes
  - [Bullish Bulletin](https://bullishbulletin.vercel.app/) - Post a message on a public board
  - [Noogle](https://noogle.lol/) - Nostr search engine powered by Data Vending Machines
  - [Nostrcheck Server](https://nostrcheck.me/) - Comprehensive toolbox for Nostr, with NIP-05 registration, file uploads, gallery, profile management and more
