@@ -64,12 +64,9 @@ Those below support at least one of NWC wallets in their official appstores:
 
 #### Lightning Backends
 The following nodes or lightning backends can be used by at least one of the NWC wallets:
-- [Breez SDK](https://github.com/getAlby/nostr-wallet-connect-next) - Experimental
-- [Cashu](https://github.com/getAlby/hub) - Experimental
-- [Greenlight](https://github.com/getAlby/glalby) - Greenlight Rust Go bindings
+- [LDK, LND, Cashu, Phoenixd](https://github.com/getAlby/hub) - Alby Hub currently supports these lightning backends. (Cashu + LDK integrated, LND + Phoenixd remote)
 - [LND](https://github.com/benthecarman/nostr-wallet-connect-lnd) - Nostr Wallet Connect for LND nodes
-- [LDK](https://github.com/getAlby/ldkalby) - LDK Rust Go bindings (WIP)
-- [phoenixd](https://github.com/getAlby/hub) - Nostr Wallet Connect for phoenixd
+- [CLN](https://github.com/daywalker90/cln-nip47) - NWC plugin for CLN
 
 #### NWC Wallet Services 
 The following apps are NWC wallet services with access to the APIs of the wallets they serve and let users create connection strings:
@@ -211,6 +208,7 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [Dart NDK](https://pub.dev/packages/ndk) - Nostr Development Kit for Dart/Flutter
 - [Dart Package](https://pub.dev/packages/nwc) - A Dart package that simplifies the integration of Nostr Wallet Connect into client applications
 - [Flutter Package](https://github.com/kumulynja/nwc_wallet) - A Flutter package that takes care of the wallet service side of the NWC
+- [Go NWC](https://github.com/untreu2/go-nwc) - A Go library that simplifies the integration of Nostr Wallet Connect into client applications
 - [L402 Nginx](https://github.com/DhananjayPurohit/ngx_l402) - L402 authentication module for Nginx enabling lightning monetization for REST APIs
 - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC
 - [NDK](https://github.com/nostr-dev-kit/ndk) - Nostr Development Kit
