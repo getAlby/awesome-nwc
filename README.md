@@ -208,7 +208,7 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [Dart NDK](https://pub.dev/packages/ndk) - Nostr Development Kit for Dart/Flutter
 - [Dart Package](https://pub.dev/packages/nwc) - A Dart package that simplifies the integration of Nostr Wallet Connect into client applications
 - [Flutter Package](https://github.com/kumulynja/nwc_wallet) - A Flutter package that takes care of the wallet service side of the NWC
-- [Go NWC](https://github.com/untreu2/go-nwc) - A Go library that simplifies the integration of Nostr Wallet Connect into client applications
+- [Go NWC](https://github.com/rolznz/go-nwc) - Go NWC Client library
 - [L402 Nginx](https://github.com/DhananjayPurohit/ngx_l402) - L402 authentication module for Nginx enabling lightning monetization for REST APIs
 - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC
 - [NDK](https://github.com/nostr-dev-kit/ndk) - Nostr Development Kit
