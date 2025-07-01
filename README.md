@@ -79,7 +79,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 #### AI
 - [dataMachine](https://datamachine.ai/) - Chat interface to open-source LLM models, file support and DVMs
-- [NWC MCP Server](https://github.com/getAlby/nwc-mcp-server/) - Connect your wallet to your AI agent
+- [Alby MCP Server](https://github.com/getAlby/mcp/) - Connect your wallet to your AI agent
 - [Pull that up, Jamie!](https://www.pullthatupjamie.ai/) - Search engine powered with AI
 - [LNFly](https://lnfly.albylabs.com/?ref=blog.getalby.com) - Prototype lightning apps with a single prompt
 
@@ -102,8 +102,8 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Clams](https://clams.tech/) - Dedicated accounting platform for your wallet
  - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
  - [NakaPay](https://paywithflash.com/) - Bitcoin Lightning payment service designed for developers and entrepreneurs
- - [NostrPIX](https://paywithflash.com/) - Service allowing to use lightning to make payments with bbrazilian instant payment network Pix
- - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
+ - [NostrPIX](https://paywithflash.com/) - Service allowing to use lightning to make payments with Brazilian instant payment network Pix
+ - [Wave.space](https://www.wave.space/card) - Live on bitcoin using a debit card with automatic topups powered by NWC
  - [ZapPlanner](https://zapplanner.albylabs.com/) - Send regular payments to your favorite publisher
  - [Zaplit](https://zaplit.mucu.dev/) - Split bills using lightning payments
  - [ZapplePay](https://www.zapplepay.com/) - Smart app to zap from any nostr client & auto-zaps
