@@ -217,6 +217,7 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [nwcjs](https://github.com/supertestnet/nwcjs) - Vanilla Javascript library
 - [NWC Tester (Simple)](https://getalby.github.io/nwc-tester/) - Test NWC Connection Secrets
 - [NWC Tester (Advanced)](https://supertestnet.github.io/nwc_tester/) - Check NWC Connection Secrets' permissions, perform events
+- [Pkgzap](https://pkgzap.albylabs.com/) - Support and earn sats from npm packages using the Lightning funding field
 - [Python3 library](https://github.com/supertestnet/python_nwc)
 - [React Native (Expo)](https://github.com/getAlby/nwc-react-native-expo) - An example of using Alby JS SDK (Nostr Wallet Connect) in a React Native Expo project
 - [Rust Nostr](https://github.com/rust-nostr/nostr) - Nostr protocol implementation, SDK and FFI
