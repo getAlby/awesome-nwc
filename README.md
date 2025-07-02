@@ -234,3 +234,12 @@ Protocols built on top, or interoperable with NWC
 - [UMA Auth](https://docs.uma.me/uma-auth/introduction) - Extends NWC to simplify the UX of connecting a wallet (using OAuth 2.0), and add cross-currency payments
 - [Nostr Wallet Auth](https://github.com/nostr-protocol/nips/pull/851?ref=blog.mutinywallet.com) - Protocol allowing to initiate NWC connections from the app instead of from NWC wallets
 
+
+## Contributing
+We welcome contributions from the community!
+
+To ensure consistency and quality, please take a moment to read through our [CONTRIBUTING guide](./CONTRIBUTING.md) before opening a pull request or submitting an issue.  
+It outlines how to structure your contributions, coding style, and other important details.
+
+
+
