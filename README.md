@@ -28,6 +28,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - 🛠️ [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-developer-tools--libraries)
 - 🔊 [Relays](https://github.com/getAlby/awesome-nwc/blob/master/README.md#relays)
 - 🧩 [Protocols](https://github.com/getAlby/awesome-nwc/blob/master/README.md#protocols)
+- 🤝 [Contributing](https://github.com/getAlby/awesome-nwc/blob/master/README.md#contributing)
 
 
 ## NWC Wallets
