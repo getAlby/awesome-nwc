@@ -21,14 +21,14 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [NWC interoperability tracker](https://github.com/nostrability/nostrability/issues/77)
 
 ## Content
-- ⚡ [NWC Wallets](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-wallets)
-- 📱 [Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#apps)
-- 🔧 [Hardware](https://github.com/getAlby/awesome-nwc/blob/master/README.md#hardware)
-- 👥 [Communities Using NWC](https://github.com/getAlby/awesome-nwc/blob/master/README.md#communities-using-nwc)
-- 🛠️ [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc/blob/master/README.md#nwc-developer-tools--libraries)
-- 🔊 [Relays](https://github.com/getAlby/awesome-nwc/blob/master/README.md#relays)
-- 🧩 [Protocols](https://github.com/getAlby/awesome-nwc/blob/master/README.md#protocols)
-- 🤝 [Contributing](https://github.com/getAlby/awesome-nwc/blob/master/README.md#contributing)
+- ⚡ [NWC Wallets](https://github.com/getAlby/awesome-nwc#nwc-wallets)
+- 📱  [Apps](https://github.com/getAlby/awesome-nwc#apps)
+- 🔧 [Hardware](https://github.com/getAlby/awesome-nwc#hardware)
+- 👥 [Communities Using NWC](https://github.com/getAlby/awesome-nwc#communities-using-nwc)
+- 🛠️ [Developer Tools & Libraries for Apps](https://github.com/getAlby/awesome-nwc#nwc-developer-tools--libraries)
+- 🔊 [Relays](https://github.com/getAlby/awesome-nwc#relays)
+- 🧩 [Protocols](https://github.com/getAlby/awesome-nwc#protocols)
+- 🤝 [Contributing](https://github.com/getAlby/awesome-nwc#contributing)
 
 
 ## NWC Wallets
