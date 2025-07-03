@@ -78,10 +78,13 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 ## Apps
 
 #### AI
-- [dataMachine](https://datamachine.ai/) - Chat interface to open-source LLM models, file support and DVMs
+
 - [Alby MCP Server](https://github.com/getAlby/mcp/) - Connect your wallet to your AI agent
-- [Pull that up, Jamie!](https://www.pullthatupjamie.ai/) - Search engine powered with AI
+- [dataMachine](https://datamachine.ai/) - Chat interface to open-source LLM models, file support and DVMs
+- [LMCP](https://github.com/getAlby/lmcp/) - Receive lightning payments for each tool request on your MCP Server
 - [LNFly](https://lnfly.albylabs.com/?ref=blog.getalby.com) - Prototype lightning apps with a single prompt
+- [Pull that up, Jamie!](https://www.pullthatupjamie.ai/) - Search engine powered with AI
+
 
 #### Crowdfunding
  - [Geyser](https://geyser.fund/) - Crowdfunding ideas, projects and product sales, p2p with bitcoin
