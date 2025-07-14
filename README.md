@@ -111,6 +111,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [ZapPlanner](https://zapplanner.albylabs.com/) - Send regular payments to your favorite publisher
  - [Zaplit](https://zaplit.mucu.dev/) - Split bills using lightning payments
  - [ZapplePay](https://www.zapplepay.com/) - Smart app to zap from any nostr client & auto-zaps
+ - [ZapTracker](https://zap-tracker.netlify.app/) - Analytrics Dashboards for Lightning Insights
 
 #### Games
 - [Satoshi Settlers](https://satoshisettlers.com/) - Settle and develop the blocks of Bitcoin on a shared world map
@@ -181,7 +182,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 
 #### Miscellaneous
-  - [Blotto](https://lnfly.albylabs.com/api/apps/199/view) - Participate in lightning lottery. Buy lottery tickets and win prizes
+ - [Blotto](https://lnfly.albylabs.com/api/apps/199/view) - Participate in lightning lottery. Buy lottery tickets and win prizes
  - [Bullish Bulletin](https://bullishbulletin.vercel.app/) - Post a message on a public board
  - [Noogle](https://noogle.lol/) - Nostr search engine powered by Data Vending Machines
  - [Nostrcheck Server](https://nostrcheck.me/) - Comprehensive toolbox for Nostr, with NIP-05 registration, file uploads, gallery, profile management and more
@@ -189,7 +190,6 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [The Bullish Shop](https://www.thebullish.shop/) - Bitcoin fashion and merchandise store
  - [Zapper](https://zapper.fun/) - Bulk zap payments, to any Nostr event
  - [Zapstore](https://zapstore.dev) - Open, permissionless app store with zaps
-
 
 ## Hardware
  - [Wesatoshis](https://www.wesatoshis.com/) - Hardware wallet with access to RSK DeFi and NWC integration
@@ -230,6 +230,7 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 ## Relays
 - [Alby NWC Relay](https://guides.getalby.com/developer-guide/nostr-wallet-connect-api/building-nwc-wallet-services/alby-nwc-relay) - NWC Relay maintained by Alby
 - [NWCLay](https://github.com/dezh-tech/ddsr/tree/main/nwclay) - Nostr relay that opnly accepts NWC events
+- [Wallet Relay](https://github.com/bitvora/wallet-relay) - Specialized relay for wallet service providers to process NWC and Cashu Wallet events.
 
 
 ## Protocols
