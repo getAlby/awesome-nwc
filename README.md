@@ -216,6 +216,7 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [L402 Nginx](https://github.com/DhananjayPurohit/ngx_l402) - L402 authentication module for Nginx enabling lightning monetization for REST APIs
 - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC
 - [NDK](https://github.com/nostr-dev-kit/ndk) - Nostr Development Kit
+- [NNostr](https://github.com/Kukks/NNostr/) - A Nostr Relay and Client written in C# with NWC support
 - [NostrDVM](https://github.com/believethehype/nostrdvm) - Nostr NIP90 framerwork for Data Vending Machines in Python
 - [NWC HTTP API](https://guides.getalby.com/developer-guide/v/nostr-wallet-connect-api/building-lightning-apps/communicating-payment-requests) - HTTP API to communicate NWC payment requests without the need of websockets
 - [nwcjs](https://github.com/supertestnet/nwcjs) - Vanilla Javascript library
