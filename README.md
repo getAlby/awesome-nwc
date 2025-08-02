@@ -187,6 +187,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Bullish Bulletin](https://bullishbulletin.vercel.app/) - Post a message on a public board
  - [Noogle](https://noogle.lol/) - Nostr search engine powered by Data Vending Machines
  - [Nostrcheck Server](https://nostrcheck.me/) - Comprehensive toolbox for Nostr, with NIP-05 registration, file uploads, gallery, profile management and more
+ - [NWC Screensaver](https://github.com/rolznz/nwc-screensaver) - Screensaver that shows incoming payments via NIP-47 notifications
  - [Spring Browser](https://spring.site/) - Purpose-built browser to explore the universe of Nostr apps
  - [The Bullish Shop](https://www.thebullish.shop/) - Bitcoin fashion and merchandise store
  - [Zapper](https://zapper.fun/) - Bulk zap payments, to any Nostr event
