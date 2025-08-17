@@ -116,6 +116,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 #### Games
 - [Satoshi Settlers](https://satoshisettlers.com/) - Settle and develop the blocks of Bitcoin on a shared world map
+- [Tic tac toe](https://lntictactoe.com/) - Earn satoshis playing multiplayer tic-tac-toe
 - [Zappy Bird](https://rolznz.github.io/zappy-bird/) - Super fun version of Flappy Bird
 
 #### Live Streaming
