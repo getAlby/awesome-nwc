@@ -35,6 +35,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [Alby Hub](https://albyhub.com/) - Self-custodial lightning node with wallet and most seamless NWC service
 - [Bankify](https://supertestnet.github.io/bankify/) - Turn any cashu mint into a lightning wallet with NWC support
 - [Bitvora](https://supertestnet.github.io/bankify/) - Custodial wallet and bitcoin Lightning API platform for businesses
+- [Blitz Wallet](https://blitz-wallet.com/) - Self-Custodial Bitcoin and Lightning Wallet using the Spark Network
 - [Cashu.me](https://wallet.cashu.me/) - eCash-based Cashu wallet PWA
 - [Coinos](https://coinos.io/) - Free custodial web wallet and payment page
 - [Electrum](https://electrum.org/) - Legendary on-chain and lightning wallet
