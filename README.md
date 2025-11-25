@@ -102,6 +102,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Swapido](https://www.swapido.com/) - Mexican bitcoin exchange with NWC integration 
 
 #### Finance, Accounting & Payment Tools
+ - [2fiat Topup](https://github.com/rolznz/2fiat-topup) - Topup your no-KYC 2fiat debit card with a couple of taps
  - [BitcoinLink](https://www.bitcoinlink.app/) - Create URL vouchers to send sats from your wallet
  - [Cashu Redeem](https://redeem.cashu.me/) - Redeem cashu tokens to your NWC wallet
  - [Clams](https://clams.tech/) - Dedicated accounting platform for your wallet
