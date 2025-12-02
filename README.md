@@ -136,6 +136,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
  - [LN POS](https://lnpos.online/) - Simple NWC PoS that supports NFC payments
  - [NakaPay](https://www.nakapay.app/) - Bitcoin lightning payment service designed for developers and entrepreneurs
+ - [WooCommerce NWC Plugin](https://github.com/getAlby/woocommerce-nwc-plugin) - Accept Bitcoin Lightning payments at your WooCommerce store
 
 #### Messengers & Group Chats
  - [0xChat](https://0xchat.com/) - Chat app built on the Nostr protocol with encrypted group chats
