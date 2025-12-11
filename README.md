@@ -136,6 +136,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
  - [LN POS](https://lnpos.online/) - Simple NWC PoS that supports NFC payments
  - [NakaPay](https://www.nakapay.app/) - Bitcoin lightning payment service designed for developers and entrepreneurs
+ - [Satoshi's Auction House](https://satoshisauction.house/) - Self-custodial Bitcoin auctions
  - [Take My Sats](https://www.takemysats.com/) - Create your online store and start accepting bitcoin payments instantly
  - [WooCommerce NWC Plugin](https://github.com/getAlby/woocommerce-nwc-plugin) - Accept Bitcoin Lightning payments at your WooCommerce store
 
