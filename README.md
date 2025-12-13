@@ -156,7 +156,8 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Zapper](https://zapper.fun/) - Bulk zap payments, to any Nostr event
  - [Zapstore](https://zapstore.dev) - Open, permissionless app store with zaps
 
-#### Music
+#### Music & Podcasts
+- [Fountain](https://www.fountain.fm/) - Music & Podcasting 2.0 app
 - [Wavlake](https://www.wavlake.com/) - Music streaming app with direct contributions to creators
 
 ### Shopping
@@ -185,7 +186,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Zapddit](https://zapddit.com/) - Choose topics to follow and join communities
  - [Zappix](https://zappix.app/feed/global) - Nostr image sharing client
  - [Jumble](https://jumble.social/) - Fast Nostr Web client
- 
+
 
 #### Tipping Bots
  - [ThunderTip](https://github.com/d4rp4t/ThunderTip) - Telegram tipping bot via your own connected wallet
