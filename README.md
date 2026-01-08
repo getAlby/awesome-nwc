@@ -129,7 +129,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Highlighter](https://highlighter.com/) - Highlighter stands out by offering creators true ownership of their audience
 - [YakiHonne](https://yakihonne.com/) - A well-designed decentralized long-form content media platform
 
-#### Merchant & Buisness Tools
+#### Merchant & Business Tools
  - [BLFS](https://github.com/MegalithicBTC/BLFS) - Bitcoin Lightning For Shopify
  - [BTCPay Server](https://docs.btcpayserver.org/Nostr/) - Open-source payment processor
  - [BuzzPay PoS](https://github.com/getAlby/pos) - Super simple self-custodial PoS
@@ -165,6 +165,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 #### Social Media, Short-form Content 
  - [Amethyst](https://github.com/vitorpamplona/amethyst) - Feature-rich Nostr client for Android
+ - [Asknostr](https://asknostr.site) - Q&A community site for Nostr protocol
  - [Coracle](https://coracle.social/) - Web client for the Nostr protocol
  - [Damus](https://damus.io/) -  Excellent Nostr client for iOS
  - [Freerse](https://freerse.com/) - Nostr client for Android and iOS
