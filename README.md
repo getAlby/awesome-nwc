@@ -235,6 +235,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 These tools and libraries help apps to integrate the NWC protocol and enable in-app payments
 - [$prism](https://www.makeprisms.com/) - API for apps to connect to wallet services
 - [Alby JS SDK](https://github.com/getAlby/js-sdk?tab=readme-ov-file#nostr-wallet-connect-documentation) - JavaScript SDK for apps to handle NWC connection strings
+- [Alby Sandbox](https://sandbox.albylabs.com/) - Explore lightning payment scenarios
 - [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect) - Easy to integrate components for web apps that let users connect their lightning wallets with a full payment flow UX
 - [Dart NDK](https://pub.dev/packages/ndk) - Nostr Development Kit for Dart/Flutter
 - [Dart Package](https://pub.dev/packages/nwc) - A Dart package that simplifies the integration of Nostr Wallet Connect into client applications
