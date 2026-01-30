@@ -96,6 +96,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 #### Education
 - [Kanbanstr](https://www.kanbanstr.com/) - Kanban boards over Nostr, with zaps
 - [PlebDevs](https://plebdevs.com/) - Online courses on bitcoin & lightning code development
+- [Start With Bitcoin](https://startwithbitcoin.com/) - Guides and tools for AI agents to use Bitcoin via Lightning Network and NWC
 
 #### Exchanges
  - [Bitcoin Well](https://bitcoinwell.com/) - Bitcoin exchange that sends purchased bitcoin directly to your wallet
