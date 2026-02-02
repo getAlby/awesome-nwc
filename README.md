@@ -82,6 +82,8 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 #### AI & Automation
 
+- [Alby Agent Skill](https://github.com/getAlby/alby-agent-skill/) - Teach your AI agent how to build lightning apps
+- [Alby CLI Skill](https://github.com/getAlby/alby-cli-skill/) - Teach your AI agent how to use a lightning wallet
 - [Alby MCP Server](https://github.com/getAlby/mcp/) - Connect your wallet to your AI agent
 - [AskExperts](https://proxy.askexperts.io/) - Create AI experts, discover them, ask them questions privately and pay for the answers using the lightning network
 - [dataMachine](https://datamachine.ai/) - Chat interface to open-source LLM models, file support and DVMs
@@ -201,7 +203,8 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 #### Wallet Interfaces
 - [Alby Account](https://www.getalby.com) - Web wallet interface and lightning address to NWC wallets with ability to log in with OAuth to many apps (eg. Podcasting 2.0)
-- [Alby Browser Extension](https://getalby.com/#extension) - Connect your wallets and surf the web of bitcon apps
+- [Alby Browser Extension](https://getalby.com/#extension) - Connect your wallets and surf the web of bitcoin apps
+- [Alby CLI](https://github.com/getAlby/cli) - CLI for Nostr Wallet Connect (NIP-47) with lightning tools
 - [Alby Go](https://albygo.com/) - The simplest mobile NWC wallet interface. Supports connecting multiple wallets and authorizing connecting apps or websties to the connected NWC wallet
 - [Avocadough](https://avocadough.xyz/) - Open source iOS NWC wallet interface
 - [BitBanana](https://bitbanana.app/) - Mobile lightning wallet and node management for Android
