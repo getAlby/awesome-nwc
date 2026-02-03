@@ -96,6 +96,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Geyser](https://geyser.fund/) - Crowdfunding ideas, projects and product sales, p2p with bitcoin
 
 #### Education
+- [Alby Sandbox](https://sandbox.albylabs.com/) - Explore lightning payment scenarios
 - [Kanbanstr](https://www.kanbanstr.com/) - Kanban boards over Nostr, with zaps
 - [PlebDevs](https://plebdevs.com/) - Online courses on bitcoin & lightning code development
 - [Start with Bitcoin](https://www.startwithbitcoin.com/) - Give your AI agents identity, wallet, and autonomous payment capabilities using Lightning Network and Nostr
