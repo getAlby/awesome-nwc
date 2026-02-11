@@ -253,6 +253,7 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [NNostr](https://github.com/Kukks/NNostr/) - A Nostr Relay and Client written in C# with NWC support
 - [Nostrduino](https://github.com/riccardobl/nostrduino) - NWC for Arduino and ESP32
 - [NostrDVM](https://github.com/believethehype/nostrdvm) - Nostr NIP90 framerwork for Data Vending Machines in Python
+- [NostrKit](https://github.com/SparrowTek/NostrKit) - Nostr protocol implementation written in Swift with NWC support
 - [Nostr PHP NWC](https://github.com/dsbaars/nostr-php-nwc) - Client-side implementation NWC for PHP
 - [NWC Enclaved](https://github.com/nostrband/nwc-enclaved/) - Custodial NWC wallet for a Trusted Execution Environment
 - [NWC Faucet](https://faucet.nwc.dev/) - NWC Faucet allows you to create test wallets / dummy NWC connections for rapid app development and testing
