@@ -42,6 +42,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [Electrum](https://electrum.org/) - Legendary on-chain and lightning wallet
 - [Flash Wallet](https://paywithflash.com/wallet/) - Self-custodial wallet built on Breez SDK
 - [LNbits](https://lnbits.com/) - Powerful suite of bitcoin tools that has Nostr Wallet Connect plugin
+- [LNCurl](https://lncurl.lol/) - Agent-first custodial NWC wallet provider - create wallets with a single CURL command.
 - [LN Node](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
 - [Minibits](https://www.minibits.cash/) - ecash wallet with a focus on performance and usability
 - [Nutstash](https://www.nutstash.app/) - ecash wallet with experimental NWC connections (works only when app is running in the foreground)
@@ -90,6 +91,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [LNFly](https://lnfly.albylabs.com/?ref=blog.getalby.com) - Prototype lightning apps with a single prompt
 - [n8n-nodes-nwc](https://github.com/matjaz/n8n-nodes-nwc) - Custom n8n nodes for Nostr Wallet Connect (NWC) protocol integration
 - [PaidMCP](https://github.com/getAlby/paidmcp/) - Charge for your MCP Server tool requests
+- [PPQ](https://ppq.ai/) - PayPerQ: No-KYC model provider with NWC auto-topups and AI-friendly API
 - [Pull that up, Jamie!](https://www.pullthatupjamie.ai/) - Search engine powered with AI
 
 #### Crowdfunding
@@ -227,6 +229,8 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Wesatoshis](https://www.wesatoshis.com/) - Hardware wallet with access to RSK DeFi and NWC integration
  - [LightningPiggy](https://www.lightningpiggy.com/) - An electronic cash piggy bank for children that accepts bitcoin sent over lightning
 
+## VPS / VPN Services
+- [LNVPS](https://lnvps.net/) - High-performance VPS powered by Bitcoin. No KYC, no fuss. NWC auto-renewal supported.
 
 ## Communities Using NWC
 - [**NWC.dev Discord**](https://discord.nwc.dev/) - Discord channel for developers building apps and wallets with Nostr Wallet Connect
