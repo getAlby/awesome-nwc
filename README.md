@@ -93,6 +93,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [PaidMCP](https://github.com/getAlby/paidmcp/) - Charge for your MCP Server tool requests
 - [PPQ](https://ppq.ai/) - PayPerQ: No-KYC model provider with NWC auto-topups and AI-friendly API
 - [Pull that up, Jamie!](https://www.pullthatupjamie.ai/) - Search engine powered with AI
+- [Satring](https://satring.com/) - Searchable directory of live, verified, rated L402 API services and analytics
 
 #### Crowdfunding
  - [Geyser](https://geyser.fund/) - Crowdfunding ideas, projects and product sales, p2p with bitcoin
