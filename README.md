@@ -19,6 +19,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [nwc.wtf](https://nwc.wtf/en/)
 - [NIP-47](https://github.com/nostr-protocol/nips/blob/master/47.md)
 - [NWC interoperability tracker](https://github.com/nostrability/nostrability/issues/77)
+- [BitcoinApps.info](https://bitcoinapps.info/)
 
 ## Content
 - ⚡ [NWC Wallets](https://github.com/getAlby/awesome-nwc#nwc-wallets)
@@ -34,7 +35,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 ## NWC Wallets
 - [Alby Hub](https://albyhub.com/) - Self-custodial lightning node with wallet and most seamless NWC service
 - [Bankify](https://supertestnet.github.io/bankify/) - Turn any cashu mint into a lightning wallet with NWC support
-- [Bitvora](https://supertestnet.github.io/bankify/) - Custodial wallet and bitcoin lightning API platform for businesses
+- [Bitvora](https://bitvora.com/) - Custodial wallet and bitcoin lightning API platform for businesses
 - [Blitz](https://blitzwalletapp.com/) - Self-custodial spark and lighting wallet
 - [Buho](https://home.mybuho.de/) - Community-drive custodial web wallet for individuals and buisnesses
 - [Cashu.me](https://wallet.cashu.me/) - ecash-based Cashu PWA wallet 
@@ -83,11 +84,11 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 #### AI & Automation
 
-- [Alby Agent Skill](https://github.com/getAlby/alby-agent-skill/) - Teach your AI agent how to build lightning apps
-- [Alby CLI Skill](https://github.com/getAlby/alby-cli-skill/) - Teach your AI agent how to use a lightning wallet
-- [Alby MCP Server](https://github.com/getAlby/mcp/) - Connect your wallet to your AI agent
-- [AskExperts](https://proxy.askexperts.io/) - Create AI experts, discover them, ask them questions privately and pay for the answers using the lightning network
-- [dataMachine](https://datamachine.ai/) - Chat interface to open-source LLM models, file support and DVMs
+- [Agent Wallet NWC Bridge](https://github.com/RTBC-SIA/agent-wallet-nwc-bridge) - Nostr Wallet Connect (NIP-47) bridge that exposes a local MoneyDevKit's Agent Wallet instance as an NWC wallet-service
+- [Alby Bitcoin Builder Skill](https://github.com/getAlby/alby-agent-skill/) - Teach your AI agent how to build lightning apps
+- [Alby Bitcoin Payments MCP](https://github.com/getAlby/mcp/) - Connect your wallet to your AI agent
+- [Alby Bitcoin Payments Skill](https://github.com/getAlby/alby-cli-skill/) - Teach your AI agent how to use a lightning wallet
+- [Cascdr](https://cascdr.xyz/) - Build chained workflows of AI apps and API services
 - [LNFly](https://lnfly.albylabs.com/?ref=blog.getalby.com) - Prototype lightning apps with a single prompt
 - [n8n-nodes-nwc](https://github.com/matjaz/n8n-nodes-nwc) - Custom n8n nodes for Nostr Wallet Connect (NWC) protocol integration
 - [PaidMCP](https://github.com/getAlby/paidmcp/) - Charge for your MCP Server tool requests
@@ -106,13 +107,16 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 #### Exchanges
  - [Bitcoin Well](https://bitcoinwell.com/) - Bitcoin exchange that sends purchased bitcoin directly to your wallet
  - [Bringin](https://bringin.xyz/) - Sell bitcoin from your wallet directly to IBAN accounts
+ - [Mostro](https://mostro.network/) - Non-custodial P2P Bitcoin exchange on lightning network & Nostr
  - [Swapido](https://www.swapido.com/) - Mexican bitcoin exchange with NWC integration 
  - [Wave.space](https://www.wave.space/card) - Live on bitcoin using a debit card with automatic topups powered by NWC
 
 #### Finance, Accounting & Payment Tools
  - [2fiat Topup](https://github.com/rolznz/2fiat-topup) - Topup your no-KYC 2fiat debit card with a couple of taps
+ - [BitBlik](https://bitblik.app/) - Peer-to-peer, non-custodial app to use Poland's fast payment BLIK system with bitcoin
  - [BitcoinLink](https://www.bitcoinlink.app/) - Create URL vouchers to send sats from your wallet
  - [Cashu Redeem](https://redeem.cashu.me/) - Redeem cashu tokens to your NWC wallet
+ - [ChapSmart](https://chapsmart.com/) - Tanzania's M-Pesa mobile money system top-up with lightning
  - [Clams](https://clams.tech/) - Dedicated accounting platform for your wallet
   - [Sats Sorter](https://satsorter.com/) - Bitcoin budgeting app
  - [ZapPlanner](https://zapplanner.albylabs.com/) - Send regular payments to your favorite publisher
@@ -132,7 +136,6 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 #### Long-form Content Publishing
 - [Bitcoin Lightning Publisher](https://wordpress.org/plugins/bitcoin-lightning-publisher/) - A Wordpress plugin to accept donations and set paywalls on websites
-- [Habla](https://habla.news/) - Read, write, curate and monetize long form content over Nostr
 - [Highlighter](https://highlighter.com/) - Highlighter stands out by offering creators true ownership of their audience
 - [YakiHonne](https://yakihonne.com/) - A well-designed decentralized long-form content media platform
 
@@ -151,7 +154,6 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 #### Messengers & Group Chats
  - [0xChat](https://0xchat.com/) - Chat app built on the Nostr protocol with encrypted group chats
- - [Chachi](https://chachi.chat/) - Group chat app
  - [White Noise](https://github.com/parres-hq/whitenoise) - Signal-like secure mesasging app over Nostr 
 
 #### Miscellaneous
@@ -167,6 +169,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Zapstore](https://zapstore.dev) - Open, permissionless app store with zaps
 
 #### Music & Podcasts
+- [Castamatic](https://castamatic.com/) - iOS Podcasting 2.0 app with searchable transcript, chapters and no accounts
 - [Fountain](https://www.fountain.fm/) - Music & Podcasting 2.0 app
 - [Wavlake](https://www.wavlake.com/) - Music streaming app with direct contributions to creators
 
@@ -179,7 +182,6 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Coracle](https://coracle.social/) - Web client for the Nostr protocol
  - [Damus](https://damus.io/) -  Excellent Nostr client for iOS
  - [Freerse](https://freerse.com/) - Nostr client for Android and iOS
- - [FreeFrom](https://freefrom.space/) - Closed-source, twitter like client for Androis and iOS
  - [Lume](https://github.com/lumehq/lume/tree/v2.2.3) - Multi-purpose nostr client for Desktop
  - [Lumina](https://lumina.rocks/) - Social media platform for sharing images, built on the Nostr protocol
  - [More Speech](https://github.com/unclebob/more-speech) - A desktop client for the Nostr protocol
@@ -226,11 +228,14 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 ## Hardware
  - [BoltCard NWC](https://alpha.lawallet.io/) - Create an open, self-custodial NFC lightning card
- - [Wesatoshis](https://www.wesatoshis.com/) - Hardware wallet with access to RSK DeFi and NWC integration
+ - [BTClock](https://btclock.dev/) - E-paper clock displaying block height, price, median fee and halving countdown
  - [LightningPiggy](https://www.lightningpiggy.com/) - An electronic cash piggy bank for children that accepts bitcoin sent over lightning
+ - [Wesatoshis](https://www.wesatoshis.com/) - Hardware wallet with access to RSK DeFi and NWC integration
 
-## VPS / VPN Services
+## VPS / VPN / eSIM
 - [LNVPS](https://lnvps.net/) - High-performance VPS powered by Bitcoin. No KYC, no fuss. NWC auto-renewal supported.
+- [nadanada](https://nadanada.me/) - No-KYC eSIM, VPN and phone numbers
+- [zap.best](https://shop.zap.best/) - Non-KYC mobile data provider
 
 ## Communities Using NWC
 - [**NWC.dev Discord**](https://discord.nwc.dev/) - Discord channel for developers building apps and wallets with Nostr Wallet Connect
@@ -245,16 +250,19 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [$prism](https://www.makeprisms.com/) - API for apps to connect to wallet services
 - [Alby JS SDK](https://github.com/getAlby/js-sdk?tab=readme-ov-file#nostr-wallet-connect-documentation) - JavaScript SDK for apps to handle NWC connection strings
 - [Alby Sandbox](https://sandbox.albylabs.com/) - Explore lightning payment scenarios
+- [bark-nwc](https://gitlab.com/ark-bitcoin/labs/bark-nwc) - A Rust daemon that bridges a Bark (Ark / L2 Bitcoin) wallet to any NWC client
 - [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect) - Easy to integrate components for web apps that let users connect their lightning wallets with a full payment flow UX
 - [Dart NDK](https://pub.dev/packages/ndk) - Nostr Development Kit for Dart/Flutter
 - [Dart Package](https://pub.dev/packages/nwc) - A Dart package that simplifies the integration of Nostr Wallet Connect into client applications
 - [Flutter Package](https://github.com/kumulynja/nwc_wallet) - A Flutter package that takes care of the wallet service side of the NWC
 - [Go NWC](https://github.com/untreu2/go-nwc) - Go NWC Client library by untreu2
 - [Go NWC](https://github.com/rolznz/go-nwc) - Go NWC Client library by rolznz
+- [Grimoire](https://grimoire.rocks/) - Nostr protocol explorer and developer tool
 - [L402 Nginx](https://github.com/DhananjayPurohit/ngx_l402) - L402 authentication module for Nginx enabling lightning monetization for REST APIs
 - [Lightning Address Server](https://replit.com/@ReneAaron/NWC-Lightning-Address-Server) - Request lightning invoices from your wallet via NWC
 - [NDK](https://github.com/nostr-dev-kit/ndk) - Nostr Development Kit
 - [NNostr](https://github.com/Kukks/NNostr/) - A Nostr Relay and Client written in C# with NWC support
+- [nostr-core](https://nostr-core.netlify.app/) - Complete Nostr toolkit with 40+ NIPs, NWC wallet client, eCash, BOLT-11, Blossom media, RSS import, and protocol primitives for JavaScript and TypeScript
 - [Nostrduino](https://github.com/riccardobl/nostrduino) - NWC for Arduino and ESP32
 - [NostrDVM](https://github.com/believethehype/nostrdvm) - Nostr NIP90 framerwork for Data Vending Machines in Python
 - [NostrKit](https://github.com/SparrowTek/NostrKit) - Nostr protocol implementation written in Swift with NWC support
@@ -263,6 +271,7 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [NWC Faucet](https://faucet.nwc.dev/) - NWC Faucet allows you to create test wallets / dummy NWC connections for rapid app development and testing
 - [NWC HTTP API](https://guides.getalby.com/developer-guide/v/nostr-wallet-connect-api/building-lightning-apps/communicating-payment-requests) - HTTP API to communicate NWC payment requests without the need of websockets
 - [NWC Playground](https://nwc-playground.vercel.app/) - Connect and test Nostr Wallet Connect commands
+- [nwc-ruby](https://github.com/MegalithicBTC/nwc-ruby) - Ruby library for integrating Nostr Wallet Connect into apps and services
 - [nwcjs](https://github.com/supertestnet/nwcjs) - Vanilla Javascript library
 - [NWC Tester (Simple)](https://getalby.github.io/nwc-tester/) - Test NWC Connection Secrets
 - [NWC Tester (Advanced)](https://supertestnet.github.io/nwc_tester/) - Check NWC Connection Secrets' permissions, perform events
@@ -294,6 +303,3 @@ We welcome contributions from the community!
 
 To ensure consistency and quality, please take a moment to read through our [CONTRIBUTING guide](./CONTRIBUTING.md) before opening a pull request or submitting an issue.  
 It outlines how to structure your contributions, coding style, and other important details.
-
-
-
