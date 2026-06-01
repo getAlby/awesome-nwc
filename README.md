@@ -196,6 +196,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Snort](https://snort.social/) - Feature-packed Nostr web client
  - [Stacker News](https://stacker.news/) - Internet communities that let you upvote content and pay you bitcoin
  - [Whereostr](https://wherostr.social/) - Explore where your Nostr friends are located
+ - [Wisp](https://wisp.mobile/) - Sleek Android Nostr client
  - [Yana](https://yana.do/) - Yet another Nostr app for Android and iOS
  - [Zapddit](https://zapddit.com/) - Choose topics to follow and join communities
  - [Zappix](https://zappix.app/feed/global) - Nostr image sharing client
