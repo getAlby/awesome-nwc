@@ -113,6 +113,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 #### Finance, Accounting & Payment Tools
  - [2fiat Topup](https://github.com/rolznz/2fiat-topup) - Topup your no-KYC 2fiat debit card with a couple of taps
+ - [2fiat Topup](https://card.albylabs.com) - Topup your debit card with a couple of taps
  - [BitBlik](https://bitblik.app/) - Peer-to-peer, non-custodial app to use Poland's fast payment BLIK system with bitcoin
  - [BitcoinLink](https://www.bitcoinlink.app/) - Create URL vouchers to send sats from your wallet
  - [Cashu Redeem](https://redeem.cashu.me/) - Redeem cashu tokens to your NWC wallet
