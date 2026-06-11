@@ -223,6 +223,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [LaWallet](https://alpha.lawallet.io/wallet/login) - Create and manage Boltcard payments to your connected NWC wallets
 - [Nostr Pay](https://github.com/aniketambore/nostr_pay) - Simple Android wallet connecting to your NWC wallet [_not maintained_]
 - [Portal App](https://github.com/PortalTechnologiesInc/portal-app) - A mobile identity wallet for secure authentication and payments using the Nostr protocol
+- [Split Rewards](https://www.split-loyalty.com/) - Fully loaded Bitcoin rewards app. Earn sats for spending Bitcoin. Connect to your Alby node.
 - [Tides](https://github.com/arbadacarbaYK/Tides) - A zap and NWC enabled Nostr messenger Browser extension for Chromium-based browsers
 - [Vortex](https://www.raycast.com/saunter/vortex) - [Raycast](https://www.raycast.com/) extension, the fastest way to use bitcoin on macOS
 - [Zeus](https://zeusln.com/) - Mobile multi-wallet with embedded node, LNDhub and NWC connections (_from 0.10_)
