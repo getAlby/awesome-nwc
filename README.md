@@ -309,6 +309,7 @@ Protocols built on top, or interoperable with NWC
 - [LN Link](https://docs.lnfi.network/lnfi-products/ln-node/ln-link) - Extenstion of NWC for Taproot assets
 - [UMA Auth](https://docs.uma.me/uma-auth/introduction) - Extends NWC to simplify the UX of connecting a wallet (using OAuth 2.0), and add cross-currency payments
 - [Nostr Wallet Auth](https://github.com/nostr-protocol/nips/pull/851) - Protocol allowing to initiate NWC connections from the app instead of from NWC wallets
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 
 ## Contributing
