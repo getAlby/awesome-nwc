@@ -224,7 +224,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Avocadough](https://avocadough.xyz/) - Open source iOS NWC wallet interface
 - [BitBanana](https://bitbanana.app/) - Mobile lightning wallet and node management for Android
 - [Bitvora](https://bitvora.com/) - Bitcoin lightning API platform for businesses
-- [BuhoGO](https://home.mybuho.de/buhogo) - A community-driven mobile NWC wallet interface
+- [BuhoGO](https://home.mybuho.de/buhogo) - Open-source wallet for web and Android. Use your NWC wallets next to self-custodial ones, pay contacts and Lightning addresses, and take payments in kiosk mode
 - [bullishNWC](https://github.com/thebullishbitcoiner/bullishnwc) - A simple, streamlined PWA to connect to your NWC wallets
 - [Brick Wallet](https://github.com/supertestnet/brick-wallet) - A web frontend for NWC
 - [LaWallet](https://alpha.lawallet.io/wallet/login) - Create and manage Boltcard payments to your connected NWC wallets
