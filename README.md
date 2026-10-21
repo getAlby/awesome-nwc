@@ -123,6 +123,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Stacker News](https://stacker.news/) - Internet communities that let you upvote content and pay you bitcoin
  - [Whereostr](https://wherostr.social/) - Explore where your Nostr friends are located
  - [Yana](https://yana.do/) - Yet another Nostr app for Android and iOS
+ - [Zap Cooking](https://zap.cooking/) - Food-first Nostr social client for web and Android. Zap recipes with the built-in Spark wallet or any NWC-compatible wallet ([Google Play](https://play.google.com/store/apps/details?id=cooking.zap.app), also on Zapstore)
  - [Zapddit](https://zapddit.com/) - Choose topics to follow and join communities
 
 #### Tip Bots
