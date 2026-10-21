@@ -198,7 +198,6 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Nostur](https://nostur.com/) - Top-notch Nostr client for iOS
  - [Nostter](https://nostter.app/) - Lightweight, elegant client with NWC 
  - [Olas](https://testflight.apple.com/join/2FMVX2yM) - Instagram-like Nostr app for iOS
- - [Club Orange](https://www.cluborange.org/) - Social media app for Bitcoiners
  - [Primal](https://primal.net/) - Fast and easy Nostr client for web, Android and iOS
  - [Snort](https://snort.social/) - Feature-packed Nostr web client
  - [Stacker News](https://stacker.news/) - Internet communities that let you upvote content and pay you bitcoin
