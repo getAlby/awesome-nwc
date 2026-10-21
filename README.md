@@ -231,6 +231,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Lightning Control Center](https://github.com/lioranecho-cpu/lightning-control-center) - Self-hosted node dashboard with a Treasury interface for connecting external NWC wallets (Pro tier)
 - [Nostr Pay](https://github.com/aniketambore/nostr_pay) - Simple Android wallet connecting to your NWC wallet [_not maintained_]
 - [Portal App](https://github.com/PortalTechnologiesInc/portal-app) - A mobile identity wallet for secure authentication and payments using the Nostr protocol
+- [Sidecar](https://sidecar.top) - Nostr signer that lives in the browser sidebar, with a built-in NWC wallet for zaps, invoices and Podcasting 2.0 boosts
 - [Split Rewards](https://www.split-loyalty.com/) - Fully loaded Bitcoin rewards app. Earn sats for spending Bitcoin. Connect to your Alby node.
 - [Tides](https://github.com/arbadacarbaYK/Tides) - A zap and NWC enabled Nostr messenger Browser extension for Chromium-based browsers
 - [Vortex](https://www.raycast.com/saunter/vortex) - [Raycast](https://www.raycast.com/) extension, the fastest way to use bitcoin on macOS
