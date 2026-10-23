@@ -175,6 +175,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Spring Browser](https://spring.site/) - Purpose-built browser to explore the universe of Nostr apps
  - [Zapper](https://zapper.fun/) - Bulk zap payments, to any Nostr event
  - [Zapstore](https://zapstore.dev) - Open, permissionless app store with zaps
+ - [Holoboard](https://holoboard.space) - Promote Nostr notes with sats using NWC, with a paid ranking that fades over time.
 
 #### Music & Podcasts
 - [Castamatic](https://castamatic.com/) - iOS Podcasting 2.0 app with searchable transcript, chapters and no accounts
