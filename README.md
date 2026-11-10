@@ -96,6 +96,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Pi 402](https://pi.dev/packages/pi-402) - Pay-per-use AI inference for Pi.dev agent
 - [PPQ](https://ppq.ai/) - PayPerQ: No-KYC model provider with NWC auto-topups and AI-friendly API
 - [Pull that up, Jamie!](https://www.pullthatupjamie.ai/) - Search engine powered with AI
+- [SatBotly](https://satbotly.com/wallets) - Free directory of AI-agent wallets and pay-per-call APIs, with NWC and other wallet features checked against each wallet's own docs
 
 #### Crowdfunding
  - [Geyser](https://geyser.fund/) - Crowdfunding ideas, projects and product sales, p2p with bitcoin
