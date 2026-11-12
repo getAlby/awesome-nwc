@@ -136,6 +136,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Zappy Bird](https://rolznz.github.io/zappy-bird/) - Super fun version of Flappy Bird
 
 #### Live Streaming
+- [cheddar.chat](https://cheddar.chat/) - Donation alerts with donation creation reply bot in livechat
 - [HiveTalk](https://hivetalk.org/) - Videocalls, messaging and screensharing with Nostr login and zaps
 - [Corny Chat](https://cornychat.com/) - Audio & chat rooms with zaps, over Nostr
 - [Zap.Stream](https://zap.stream/) - Slick website for live streaming and chat with zaps. Mobile app has 1-tap wallet connect.
