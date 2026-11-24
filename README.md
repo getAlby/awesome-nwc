@@ -93,6 +93,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [LNFly](https://lnfly.albylabs.com/?ref=blog.getalby.com) - Prototype lightning apps with a single prompt
 - [mesh-nwc-wallet](https://github.com/getAlby/mesh-nwc-wallet) - Wallet plugin for [mesh-llm](https://github.com/Mesh-LLM/mesh-llm) to pay for and receive payments for AI inference with any NWC wallet (experimental)
 - [n8n-nodes-nwc](https://github.com/matjaz/n8n-nodes-nwc) - Custom n8n nodes for Nostr Wallet Connect (NWC) protocol integration
+- [nwc-guard](https://github.com/lamporun/nwc-guard) - Spending firewall between AI agents and your wallet: NWC proxy with payee rules, budgets, rate limits and approval on your phone
 - [PaidMCP](https://github.com/getAlby/paidmcp/) - Charge for your MCP Server tool requests
 - [Pi 402](https://pi.dev/packages/pi-402) - Pay-per-use AI inference for Pi.dev agent
 - [PPQ](https://ppq.ai/) - PayPerQ: No-KYC model provider with NWC auto-topups and AI-friendly API
